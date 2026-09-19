@@ -1,0 +1,137 @@
+name,price_vnd,category,size,ingredients,description
+Cà phê đen đá (Size S),38000,coffee,S,Xem mô tả,"Cà phê phin nguyên chất, đậm vị, không đường sữa."
+Cà phê đen đá (Size M),42000,coffee,M,Xem mô tả,"Cà phê phin nguyên chất, đậm vị, không đường sữa."
+Cà phê đen đá (Size L),48000,coffee,L,Xem mô tả,"Cà phê phin nguyên chất, đậm vị, không đường sữa."
+Cà phê sữa đá (Size S),38000,coffee,S,Xem mô tả,"Cà phê phin pha cùng sữa đặc, đậm đà truyền thống."
+Cà phê sữa đá (Size M),42000,coffee,M,Xem mô tả,"Cà phê phin pha cùng sữa đặc, đậm đà truyền thống."
+Cà phê sữa đá (Size L),48000,coffee,L,Xem mô tả,"Cà phê phin pha cùng sữa đặc, đậm đà truyền thống."
+Bạc xỉu (Size S),37000,coffee,S,Xem mô tả,"Sữa đặc nhiều hơn cà phê, vị ngọt béo nhẹ, ít đắng."
+Bạc xỉu (Size M),41000,coffee,M,Xem mô tả,"Sữa đặc nhiều hơn cà phê, vị ngọt béo nhẹ, ít đắng."
+Bạc xỉu (Size L),47000,coffee,L,Xem mô tả,"Sữa đặc nhiều hơn cà phê, vị ngọt béo nhẹ, ít đắng."
+Americano đá (Size S),37000,coffee,S,Xem mô tả,"Espresso pha loãng với nước, vị thanh, ít béo."
+Americano đá (Size M),41000,coffee,M,Xem mô tả,"Espresso pha loãng với nước, vị thanh, ít béo."
+Americano đá (Size L),47000,coffee,L,Xem mô tả,"Espresso pha loãng với nước, vị thanh, ít béo."
+Americano nóng (Size S),39000,coffee,S,Xem mô tả,"Espresso pha loãng với nước nóng, vị thanh."
+Americano nóng (Size M),43000,coffee,M,Xem mô tả,"Espresso pha loãng với nước nóng, vị thanh."
+Americano nóng (Size L),49000,coffee,L,Xem mô tả,"Espresso pha loãng với nước nóng, vị thanh."
+Latte đá (Size S),38000,coffee,S,Xem mô tả,"Espresso pha sữa tươi, lớp bọt mịn, vị nhẹ béo."
+Latte đá (Size M),42000,coffee,M,Xem mô tả,"Espresso pha sữa tươi, lớp bọt mịn, vị nhẹ béo."
+Latte đá (Size L),48000,coffee,L,Xem mô tả,"Espresso pha sữa tươi, lớp bọt mịn, vị nhẹ béo."
+Latte nóng (Size S),35000,coffee,S,Xem mô tả,"Espresso pha sữa tươi nóng, thơm béo."
+Latte nóng (Size M),39000,coffee,M,Xem mô tả,"Espresso pha sữa tươi nóng, thơm béo."
+Latte nóng (Size L),45000,coffee,L,Xem mô tả,"Espresso pha sữa tươi nóng, thơm béo."
+Cappuccino (Size S),35000,coffee,S,Xem mô tả,"Espresso, sữa nóng và lớp bọt sữa dày đặc trưng."
+Cappuccino (Size M),39000,coffee,M,Xem mô tả,"Espresso, sữa nóng và lớp bọt sữa dày đặc trưng."
+Cappuccino (Size L),45000,coffee,L,Xem mô tả,"Espresso, sữa nóng và lớp bọt sữa dày đặc trưng."
+Mocha đá (Size S),38000,coffee,S,Xem mô tả,"Espresso, sữa, socola, vị ngọt đắng hài hòa."
+Mocha đá (Size M),42000,coffee,M,Xem mô tả,"Espresso, sữa, socola, vị ngọt đắng hài hòa."
+Mocha đá (Size L),48000,coffee,L,Xem mô tả,"Espresso, sữa, socola, vị ngọt đắng hài hòa."
+Mocha nóng (Size S),35000,coffee,S,Xem mô tả,"Espresso, sữa nóng, socola, thơm nồng."
+Mocha nóng (Size M),39000,coffee,M,Xem mô tả,"Espresso, sữa nóng, socola, thơm nồng."
+Mocha nóng (Size L),45000,coffee,L,Xem mô tả,"Espresso, sữa nóng, socola, thơm nồng."
+Espresso Shot (Size S),38000,coffee,S,Xem mô tả,"Cà phê nguyên chất ép áp suất cao, đậm đặc."
+Espresso Shot (Size M),42000,coffee,M,Xem mô tả,"Cà phê nguyên chất ép áp suất cao, đậm đặc."
+Espresso Shot (Size L),48000,coffee,L,Xem mô tả,"Cà phê nguyên chất ép áp suất cao, đậm đặc."
+Cà phê muối (Size S),36000,coffee,S,Xem mô tả,Cà phê phin kết hợp lớp kem muối beo béo mặn ngọt.
+Cà phê muối (Size M),40000,coffee,M,Xem mô tả,Cà phê phin kết hợp lớp kem muối beo béo mặn ngọt.
+Cà phê muối (Size L),46000,coffee,L,Xem mô tả,Cà phê phin kết hợp lớp kem muối beo béo mặn ngọt.
+Cold Brew (Size S),39000,coffee,S,Xem mô tả,"Cà phê ủ lạnh 12 tiếng, vị êm dịu, ít chua gắt."
+Cold Brew (Size M),43000,coffee,M,Xem mô tả,"Cà phê ủ lạnh 12 tiếng, vị êm dịu, ít chua gắt."
+Cold Brew (Size L),49000,coffee,L,Xem mô tả,"Cà phê ủ lạnh 12 tiếng, vị êm dịu, ít chua gắt."
+Phin sữa đá dừa (Size S),35000,coffee,S,Xem mô tả,"Cà phê phin, sữa đặc, nước cốt dừa béo ngậy."
+Phin sữa đá dừa (Size M),39000,coffee,M,Xem mô tả,"Cà phê phin, sữa đặc, nước cốt dừa béo ngậy."
+Phin sữa đá dừa (Size L),45000,coffee,L,Xem mô tả,"Cà phê phin, sữa đặc, nước cốt dừa béo ngậy."
+Caramel Macchiato (Size S),37000,coffee,S,Xem mô tả,"Espresso, sữa tươi, sốt caramel béo ngọt."
+Caramel Macchiato (Size M),41000,coffee,M,Xem mô tả,"Espresso, sữa tươi, sốt caramel béo ngọt."
+Caramel Macchiato (Size L),47000,coffee,L,Xem mô tả,"Espresso, sữa tươi, sốt caramel béo ngọt."
+Hazelnut Latte (Size S),39000,coffee,S,Xem mô tả,"Latte hương phỉ, thơm béo, ngọt dịu."
+Hazelnut Latte (Size M),43000,coffee,M,Xem mô tả,"Latte hương phỉ, thơm béo, ngọt dịu."
+Hazelnut Latte (Size L),49000,coffee,L,Xem mô tả,"Latte hương phỉ, thơm béo, ngọt dịu."
+Vanilla Latte (Size S),38000,coffee,S,Xem mô tả,"Latte hương vani nhẹ nhàng, thơm béo."
+Vanilla Latte (Size M),42000,coffee,M,Xem mô tả,"Latte hương vani nhẹ nhàng, thơm béo."
+Vanilla Latte (Size L),48000,coffee,L,Xem mô tả,"Latte hương vani nhẹ nhàng, thơm béo."
+Cà phê trứng (Size S),37000,coffee,S,Xem mô tả,Cà phê phin kết hợp kem trứng đánh bông béo ngậy kiểu Hà Nội.
+Cà phê trứng (Size M),41000,coffee,M,Xem mô tả,Cà phê phin kết hợp kem trứng đánh bông béo ngậy kiểu Hà Nội.
+Cà phê trứng (Size L),47000,coffee,L,Xem mô tả,Cà phê phin kết hợp kem trứng đánh bông béo ngậy kiểu Hà Nội.
+Cà phê cốt dừa freeze (Size S),36000,coffee,S,Xem mô tả,Cà phê xay đá cùng nước cốt dừa béo mát.
+Cà phê cốt dừa freeze (Size M),40000,coffee,M,Xem mô tả,Cà phê xay đá cùng nước cốt dừa béo mát.
+Cà phê cốt dừa freeze (Size L),46000,coffee,L,Xem mô tả,Cà phê xay đá cùng nước cốt dừa béo mát.
+Doppio Espresso (Size S),35000,coffee,S,Xem mô tả,Hai shot espresso đậm đặc dành cho người mê cà phê mạnh.
+Doppio Espresso (Size M),39000,coffee,M,Xem mô tả,Hai shot espresso đậm đặc dành cho người mê cà phê mạnh.
+Doppio Espresso (Size L),45000,coffee,L,Xem mô tả,Hai shot espresso đậm đặc dành cho người mê cà phê mạnh.
+Trà đào cam sả (Size S),45000,tea,S,Xem mô tả,"Trà trái cây thanh mát, đào miếng, cam tươi, sả thơm."
+Trà đào cam sả (Size M),49000,tea,M,Xem mô tả,"Trà trái cây thanh mát, đào miếng, cam tươi, sả thơm."
+Trà đào cam sả (Size L),55000,tea,L,Xem mô tả,"Trà trái cây thanh mát, đào miếng, cam tươi, sả thơm."
+Trà sen vàng (Size S),43000,tea,S,Xem mô tả,"Trà ướp sen, thơm dịu, hậu vị ngọt thanh."
+Trà sen vàng (Size M),47000,tea,M,Xem mô tả,"Trà ướp sen, thơm dịu, hậu vị ngọt thanh."
+Trà sen vàng (Size L),53000,tea,L,Xem mô tả,"Trà ướp sen, thơm dịu, hậu vị ngọt thanh."
+Trà vải (Size S),43000,tea,S,Xem mô tả,Trà đen kết hợp vải thiều ngọt thơm.
+Trà vải (Size M),47000,tea,M,Xem mô tả,Trà đen kết hợp vải thiều ngọt thơm.
+Trà vải (Size L),53000,tea,L,Xem mô tả,Trà đen kết hợp vải thiều ngọt thơm.
+Trà oolong tứ quý (Size S),43000,tea,S,Xem mô tả,"Trà oolong nguyên bản, hương hoa nhẹ, hậu ngọt."
+Trà oolong tứ quý (Size M),47000,tea,M,Xem mô tả,"Trà oolong nguyên bản, hương hoa nhẹ, hậu ngọt."
+Trà oolong tứ quý (Size L),53000,tea,L,Xem mô tả,"Trà oolong nguyên bản, hương hoa nhẹ, hậu ngọt."
+Trà xanh mật ong (Size S),42000,tea,S,Xem mô tả,"Trà xanh nguyên chất, mật ong nguyên chất, thanh nhẹ."
+Trà xanh mật ong (Size M),46000,tea,M,Xem mô tả,"Trà xanh nguyên chất, mật ong nguyên chất, thanh nhẹ."
+Trà xanh mật ong (Size L),52000,tea,L,Xem mô tả,"Trà xanh nguyên chất, mật ong nguyên chất, thanh nhẹ."
+Trà chanh dây (Size S),44000,tea,S,Xem mô tả,"Trà đen, chanh dây chua ngọt sảng khoái."
+Trà chanh dây (Size M),48000,tea,M,Xem mô tả,"Trà đen, chanh dây chua ngọt sảng khoái."
+Trà chanh dây (Size L),54000,tea,L,Xem mô tả,"Trà đen, chanh dây chua ngọt sảng khoái."
+Trà bí đao hạt chia (Size S),45000,tea,S,Xem mô tả,"Trà bí đao mát gan, hạt chia bổ dưỡng."
+Trà bí đao hạt chia (Size M),49000,tea,M,Xem mô tả,"Trà bí đao mát gan, hạt chia bổ dưỡng."
+Trà bí đao hạt chia (Size L),55000,tea,L,Xem mô tả,"Trà bí đao mát gan, hạt chia bổ dưỡng."
+Hồng trà macchiato (Size S),44000,tea,S,Xem mô tả,Hồng trà pha lớp kem cheese macchiato béo mặn.
+Hồng trà macchiato (Size M),48000,tea,M,Xem mô tả,Hồng trà pha lớp kem cheese macchiato béo mặn.
+Hồng trà macchiato (Size L),54000,tea,L,Xem mô tả,Hồng trà pha lớp kem cheese macchiato béo mặn.
+Trà lài (Size S),43000,tea,S,Xem mô tả,"Trà ướp hoa lài thơm nhẹ, vị thanh tao."
+Trà lài (Size M),47000,tea,M,Xem mô tả,"Trà ướp hoa lài thơm nhẹ, vị thanh tao."
+Trà lài (Size L),53000,tea,L,Xem mô tả,"Trà ướp hoa lài thơm nhẹ, vị thanh tao."
+Trà quất mật ong (Size S),42000,tea,S,Xem mô tả,"Trà quất chua nhẹ hòa mật ong, tốt cho họng."
+Trà quất mật ong (Size M),46000,tea,M,Xem mô tả,"Trà quất chua nhẹ hòa mật ong, tốt cho họng."
+Trà quất mật ong (Size L),52000,tea,L,Xem mô tả,"Trà quất chua nhẹ hòa mật ong, tốt cho họng."
+Trà dâu tằm (Size S),42000,tea,S,Xem mô tả,"Trà dâu tằm ngọt thanh, màu sắc bắt mắt."
+Trà dâu tằm (Size M),46000,tea,M,Xem mô tả,"Trà dâu tằm ngọt thanh, màu sắc bắt mắt."
+Trà dâu tằm (Size L),52000,tea,L,Xem mô tả,"Trà dâu tằm ngọt thanh, màu sắc bắt mắt."
+Trà xoài (Size S),44000,tea,S,Xem mô tả,Trà trái cây vị xoài chín ngọt đậm.
+Trà xoài (Size M),48000,tea,M,Xem mô tả,Trà trái cây vị xoài chín ngọt đậm.
+Trà xoài (Size L),54000,tea,L,Xem mô tả,Trà trái cây vị xoài chín ngọt đậm.
+Freeze trà xanh (Size S),45000,freeze,S,Xem mô tả,"Đá xay trà xanh, vị ngọt béo, mát lạnh."
+Freeze trà xanh (Size M),49000,freeze,M,Xem mô tả,"Đá xay trà xanh, vị ngọt béo, mát lạnh."
+Freeze trà xanh (Size L),55000,freeze,L,Xem mô tả,"Đá xay trà xanh, vị ngọt béo, mát lạnh."
+Freeze cà phê (Size S),48000,freeze,S,Xem mô tả,"Đá xay cà phê, phủ kem tươi, đậm vị."
+Freeze cà phê (Size M),52000,freeze,M,Xem mô tả,"Đá xay cà phê, phủ kem tươi, đậm vị."
+Freeze cà phê (Size L),58000,freeze,L,Xem mô tả,"Đá xay cà phê, phủ kem tươi, đậm vị."
+Freeze socola (Size S),48000,freeze,S,Xem mô tả,"Đá xay socola nguyên chất, phủ kem tươi."
+Freeze socola (Size M),52000,freeze,M,Xem mô tả,"Đá xay socola nguyên chất, phủ kem tươi."
+Freeze socola (Size L),58000,freeze,L,Xem mô tả,"Đá xay socola nguyên chất, phủ kem tươi."
+Freeze việt quất (Size S),46000,freeze,S,Xem mô tả,"Đá xay việt quất chua ngọt, phủ kem tươi."
+Freeze việt quất (Size M),50000,freeze,M,Xem mô tả,"Đá xay việt quất chua ngọt, phủ kem tươi."
+Freeze việt quất (Size L),56000,freeze,L,Xem mô tả,"Đá xay việt quất chua ngọt, phủ kem tươi."
+Freeze matcha (Size S),48000,freeze,S,Xem mô tả,"Đá xay matcha Nhật Bản, vị đắng nhẹ, béo mịn."
+Freeze matcha (Size M),52000,freeze,M,Xem mô tả,"Đá xay matcha Nhật Bản, vị đắng nhẹ, béo mịn."
+Freeze matcha (Size L),58000,freeze,L,Xem mô tả,"Đá xay matcha Nhật Bản, vị đắng nhẹ, béo mịn."
+Freeze dâu (Size S),45000,freeze,S,Xem mô tả,"Đá xay dâu tây tươi, vị chua ngọt hài hòa."
+Freeze dâu (Size M),49000,freeze,M,Xem mô tả,"Đá xay dâu tây tươi, vị chua ngọt hài hòa."
+Freeze dâu (Size L),55000,freeze,L,Xem mô tả,"Đá xay dâu tây tươi, vị chua ngọt hài hòa."
+Freeze caramel (Size S),49000,freeze,S,Xem mô tả,"Đá xay sốt caramel béo ngọt, phủ kem tươi."
+Freeze caramel (Size M),53000,freeze,M,Xem mô tả,"Đá xay sốt caramel béo ngọt, phủ kem tươi."
+Freeze caramel (Size L),59000,freeze,L,Xem mô tả,"Đá xay sốt caramel béo ngọt, phủ kem tươi."
+Freeze chanh dây (Size S),46000,freeze,S,Xem mô tả,"Đá xay chanh dây chua thanh, giải khát mùa hè."
+Freeze chanh dây (Size M),50000,freeze,M,Xem mô tả,"Đá xay chanh dây chua thanh, giải khát mùa hè."
+Freeze chanh dây (Size L),56000,freeze,L,Xem mô tả,"Đá xay chanh dây chua thanh, giải khát mùa hè."
+Bánh croissant bơ,36500,pastry,Freesize,Xem mô tả,"Bánh sừng bò lớp vỏ giòn, nhân bơ thơm béo."
+Bánh mì que pate,35000,pastry,Freesize,Xem mô tả,"Bánh mì que giòn kèm pate béo, ăn kèm cà phê rất hợp."
+Bánh tiramisu,36500,pastry,Freesize,Xem mô tả,"Bánh tiramisu vị cà phê, kem mascarpone mềm mịn."
+Bánh phô mai nướng,38000,pastry,Freesize,Xem mô tả,"Bánh phô mai Nhật, mềm xốp, béo nhẹ."
+Cookie socola chip,38000,pastry,Freesize,Xem mô tả,"Bánh quy bơ giòn, socola chip tan chảy."
+Bánh su kem trà xanh,35000,pastry,Freesize,Xem mô tả,"Vỏ bánh giòn, nhân kem trà xanh béo mịn."
+Bánh croissant socola,36500,pastry,Freesize,Xem mô tả,Bánh sừng bò nhân socola tan chảy bên trong.
+Bánh muffin việt quất,36500,pastry,Freesize,Xem mô tả,"Bánh muffin mềm xốp, nhân việt quất chua ngọt."
+Bánh donut đường,35000,pastry,Freesize,Xem mô tả,Bánh donut chiên phủ lớp đường mịn.
+Bánh mì chả cá,38000,pastry,Freesize,Xem mô tả,"Bánh mì giòn kèm chả cá đậm đà, ăn sáng tiện lợi."
+Combo sáng: Cà phê sữa đá + Bánh mì que,55000,combo,Freesize,Xem mô tả,"Combo sáng tiết kiệm, năng lượng cho ngày mới."
+Combo chiều: Trà đào + Bánh phô mai,65000,combo,Freesize,Xem mô tả,"Combo giải khát buổi chiều, ngọt nhẹ."
+Freeze dâu mùa hè,52000,freeze,Freesize,Xem mô tả,"Đá xay dâu tây tươi, vị chua ngọt mùa hè."
+Trà ổi hồng,47000,tea,Freesize,Xem mô tả,Trà trái cây vị ổi hồng lạ miệng.
+Cà phê dừa,45000,coffee,Freesize,Xem mô tả,Cà phê phin kết hợp nước cốt dừa béo mịn.
+Bánh su kem,32000,pastry,Freesize,Xem mô tả,"Vỏ bánh giòn nhẹ, nhân kem sữa mịn."

@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+serve-env/
+awq-env/
+B1/b1-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights / checkpoints (quá nặng cho git thường, dùng Git LFS nếu bắt buộc)
+A1/generator_awq/
+A1/generator_awq_v2/
+A1/router_awq_v3/
+A1/router_finetuned_output/router_merged/
+A2/intent_sft_lora/
+A2/intent_sft_merged/
+A2/intent_sft_ckpt/
+
+# Log / tmp
+*.log
+.env

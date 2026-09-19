@@ -1,0 +1,280 @@
+{
+  "test_set_size": 412,
+  "overall_accuracy": 0.9053398058252428,
+  "hard_sample_accuracy": 0.7058823529411765,
+  "normal_sample_accuracy": 0.9447674418604651,
+  "per_class": {
+    "order": {
+      "precision": 0.8854166666666666,
+      "recall": 0.8762886597938144,
+      "f1": 0.8808290155440415,
+      "support": 97
+    },
+    "consultant": {
+      "precision": 0.8571428571428571,
+      "recall": 0.9,
+      "f1": 0.8780487804878049,
+      "support": 100
+    },
+    "faq": {
+      "precision": 0.9428571428571428,
+      "recall": 0.9339622641509434,
+      "f1": 0.9383886255924171,
+      "support": 106
+    },
+    "ignore": {
+      "precision": 0.9339622641509434,
+      "recall": 0.908256880733945,
+      "f1": 0.9209302325581395,
+      "support": 109
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "order",
+      "consultant",
+      "faq",
+      "ignore"
+    ],
+    "matrix": [
+      [
+        85,
+        8,
+        1,
+        3
+      ],
+      [
+        5,
+        90,
+        2,
+        3
+      ],
+      [
+        2,
+        4,
+        99,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        99
+      ]
+    ]
+  },
+  "sample_mistakes": [
+    {
+      "text": "I heard there might be a new cafe opening soon. Any insights on that?",
+      "true": "consultant",
+      "pred": "faq",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "'Café đen' đổi thành gì vậy chị?",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "tại sao",
+      "true": "faq",
+      "pred": "ignore",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "do we have the double shot coffee?",
+      "true": "faq",
+      "pred": "order",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "phong cách phục vụ của quán like gì ah",
+      "true": "faq",
+      "pred": "consultant",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "Chào bác, có trà đá không?",
+      "true": "ignore",
+      "pred": "faq",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "lấy xíu đường",
+      "true": "order",
+      "pred": "ignore",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "Oops, did I mess up someone’s order?",
+      "true": "ignore",
+      "pred": "order",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "[Cô/chị/nàng], cà phê em gọi hôm qua thế nào?",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "'Cause I’m feeling peckish, can we have a snack menu?",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "Any good places to try out",
+      "true": "faq",
+      "pred": "consultant",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "Xin chào nhân viên Highlands Coffee, tôi muốn hỏi bạn một tí",
+      "true": "consultant",
+      "pred": "ignore",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "Ngồi đây cả buổi rồi, thợ săn gà ri cho tôi xin giá ạ!",
+      "true": "consultant",
+      "pred": "order",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "\"Could you make it stronger, please?\"",
+      "true": "consultant",
+      "pred": "order",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "$$ dishes",
+      "true": "consultant",
+      "pred": "ignore",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "'Cà phê Highlands quá ngon', tôi vừa nhai vừa thốt lên với bạn đồng nghiệp của mình.",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "Chị, cà phê Highlands có phải là quán cà phê ngon nhất trong khu vực không?",
+      "true": "faq",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "i need a refill",
+      "true": "ignore",
+      "pred": "order",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "khó quá, tao không biết làm sao nữa",
+      "true": "consultant",
+      "pred": "ignore",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "Just checking if everything is still as per the menu",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "bán mì ống gì lại nhỉ",
+      "true": "ignore",
+      "pred": "faq",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "Tôi có thể biết thêm thông tin không?",
+      "true": "ignore",
+      "pred": "faq",
+      "is_hard": false,
+      "language": "vi"
+    },
+    {
+      "text": "Pls hlp rddr my sdm nd chck fr nw drk fr mlw",
+      "true": "order",
+      "pred": "faq",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "Could we please hurry up with this? It's getting cold outside!",
+      "true": "order",
+      "pred": "ignore",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "oof, can't wait to sip that cappuccino now",
+      "true": "ignore",
+      "pred": "order",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "Too sweet, pls. less.",
+      "true": "consultant",
+      "pred": "order",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "howz the new blend iz tday?",
+      "true": "faq",
+      "pred": "consultant",
+      "is_hard": true,
+      "language": "en"
+    },
+    {
+      "text": "Hi there, how about getting a group discount for buying 5 coffees at once?",
+      "true": "faq",
+      "pred": "order",
+      "is_hard": false,
+      "language": "en"
+    },
+    {
+      "text": "bạn có món ốc sên không nhỉ, ngon quá điên à",
+      "true": "order",
+      "pred": "consultant",
+      "is_hard": true,
+      "language": "vi"
+    },
+    {
+      "text": "Can we take care of the bill now?",
+      "true": "ignore",
+      "pred": "order",
+      "is_hard": true,
+      "language": "en"
+    }
+  ],
+  "target_accuracy_92pct_met": false,
+  "target_hard_75pct_met": false
+}

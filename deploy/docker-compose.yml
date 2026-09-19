@@ -1,0 +1,131 @@
+# Docker Compose cho toàn bộ hệ thống Multi-Agent LLM + Graph RAG (B2.1).
+#
+# Thứ tự khởi động (qua depends_on + healthcheck, KHÔNG dùng sleep cứng):
+#   1. neo4j        — tầng dữ liệu (Graph RAG), phải healthy trước tiên vì
+#                      app-layer cần kết nối được ngay khi khởi động.
+#   2. router / generator — tầng serving LLM (SGLang), độc lập với nhau,
+#                      có thể khởi động song song, nhưng app-layer phải chờ
+#                      cả 2 healthy (đủ VRAM/model đã load xong) mới nhận traffic.
+#   3. app          — Multi-Agent Orchestrator (A2), chỉ start khi cả 3 service
+#                      trên đã healthy.
+#
+# GHI CHÚ QUAN TRỌNG (để trong báo cáo kỹ thuật):
+# Đề bài giả định GPU 12GB VRAM (Router ~10%, Generator ~78%). Máy dev thực tế
+# chỉ có RTX 4050 6GB — đã tune mem-fraction-static=0.45/0.45 (thực nghiệm,
+# xem log debug) và giảm model Generator xuống Qwen2.5-3B AWQ (thay vì 7B theo
+# đề bài) để vừa VRAM. File này đã được kiểm chứng đúng kiến trúc, nhưng CHƯA
+# chạy thật trên máy dev do giới hạn RAM hệ thống (9.7GB WSL, containerize
+# thêm overhead Docker Desktop dễ gây OOM) — 2 SGLang server + Neo4j đã được
+# test chạy thật, ổn định khi chạy trực tiếp (bare-metal trong WSL).
+
+services:
+  neo4j:
+    image: neo4j:5.24-community
+    container_name: highlands-neo4j
+    environment:
+      NEO4J_AUTH: neo4j/highlands123
+      NEO4J_server_memory_pagecache_size: "512m"
+      NEO4J_server_memory_heap_max__size: "1G"
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost:7474 || exit 1"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 20s
+    restart: unless-stopped
+
+  router:
+    image: lmsysorg/sglang:latest
+    container_name: highlands-router
+    volumes:
+      - ../A1/router_awq_v3:/models/router_awq_v3:ro
+    ports:
+      - "30000:30000"
+    command: >
+      python3 -m sglang.launch_server
+      --model-path /models/router_awq_v3
+      --host 0.0.0.0 --port 30000
+      --dtype float16 --quantization awq
+      --attention-backend triton --sampling-backend pytorch
+      --context-length 512
+      --mem-fraction-static 0.45
+      --schedule-policy lpm
+      --chunked-prefill-size 256
+      --max-running-requests 8
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:30000/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 60s
+    restart: unless-stopped
+
+  generator:
+    image: lmsysorg/sglang:latest
+    container_name: highlands-generator
+    volumes:
+      - ../A1/generator_awq_v2:/models/generator_awq_v2:ro
+    ports:
+      - "30001:30001"
+    command: >
+      python3 -m sglang.launch_server
+      --model-path /models/generator_awq_v2
+      --host 0.0.0.0 --port 30001
+      --dtype float16 --quantization awq
+      --attention-backend triton --sampling-backend pytorch
+      --context-length 4096
+      --mem-fraction-static 0.45
+      --schedule-policy lpm
+      --chunked-prefill-size 512
+      --max-running-requests 4
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:30001/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 60s
+    restart: unless-stopped
+
+  app:
+    build:
+      context: ../A2
+      dockerfile: Dockerfile
+    container_name: highlands-app
+    environment:
+      NEO4J_URI: bolt://neo4j:7687
+      NEO4J_USER: neo4j
+      NEO4J_PASSWORD: highlands123
+      ROUTER_URL: http://router:30000/generate
+      GENERATOR_URL: http://generator:30001/v1/chat/completions
+    ports:
+      - "8000:8000"
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      router:
+        condition: service_healthy
+      generator:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:

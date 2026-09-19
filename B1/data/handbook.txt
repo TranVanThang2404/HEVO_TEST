@@ -1,0 +1,57 @@
+## Quy trình order tại quầy
+Nhân viên thu ngân tiếp nhận order trực tiếp hoặc qua app, xác nhận lại tên món, size, số lượng và các yêu cầu thêm (ít đá, không đường...) trước khi in hóa đơn. Đơn hàng được chuyển ngay xuống quầy pha chế qua hệ thống POS nội bộ. Thời gian chờ trung bình cho đồ uống là 3-5 phút vào giờ thấp điểm, 7-10 phút vào giờ cao điểm.
+
+## Tiêu chuẩn pha chế đồ uống
+Mỗi công thức đồ uống đều có định lượng chuẩn (gram/ml) được quy định trong sổ tay pha chế nội bộ, đảm bảo hương vị đồng nhất giữa các chi nhánh. Nhân viên pha chế phải hoàn thành khóa đào tạo nội bộ tối thiểu 2 tuần trước khi được đứng quầy chính thức.
+
+## Chính sách vệ sinh an toàn thực phẩm
+Toàn bộ nguyên liệu tươi (sữa, trái cây, kem) phải được kiểm tra hạn sử dụng hàng ngày và ghi chép vào sổ kiểm tra. Dụng cụ pha chế được vệ sinh sau mỗi ca làm việc. Nhân viên phải đeo găng tay khi xử lý thực phẩm không qua chế biến nhiệt.
+
+## Chính sách đổi trả và hoàn tiền
+Nếu đồ uống pha sai order hoặc không đạt chất lượng, khách hàng được đổi lại miễn phí trong vòng 10 phút kể từ khi nhận món, không cần giữ hóa đơn nếu thanh toán qua app. Hoàn tiền chỉ áp dụng khi đơn hàng bị hủy trước khi pha chế.
+
+## Chương trình thành viên và tích điểm
+Mỗi 10.000đ chi tiêu tích lũy 1 điểm thành viên. Đủ 100 điểm được đổi 1 voucher giảm giá 20.000đ. Thành viên hạng Vàng (chi tiêu >2 triệu/năm) được ưu đãi sinh nhật và quà tặng đặc biệt vào các dịp lễ lớn.
+
+## Quy định về không gian quán
+Khách được sử dụng không gian quán tối đa 2 tiếng vào giờ cao điểm (11h-13h, 17h-19h) nếu quán đông khách, nhân viên sẽ nhắc nhở lịch sự. Ngoài giờ cao điểm không giới hạn thời gian ngồi lại miễn là có gọi thêm đồ uống.
+
+## Chính sách giao hàng tận nơi
+Đơn hàng giao qua app tự vận hành hoặc đối tác thứ 3 (Grab, Shopee, Baemin) trong bán kính 3km. Đồ uống đá được đóng gói riêng đá và nước để tránh loãng vị khi vận chuyển xa. Thời gian giao hàng cam kết trong 30 phút kể từ khi xác nhận đơn.
+
+## Quy trình xử lý khiếu nại khách hàng
+Mọi khiếu nại được ghi nhận qua hotline hoặc app, chuyển tới quản lý chi nhánh xử lý trong 24 giờ. Trường hợp khiếu nại về chất lượng sản phẩm nghiêm trọng được báo cáo lên bộ phận QA trung tâm để kiểm tra quy trình pha chế tại chi nhánh liên quan.
+
+## Đào tạo nhân viên mới
+Nhân viên mới trải qua 3 giai đoạn: đào tạo lý thuyết (menu, quy trình, phần mềm POS), thực hành pha chế dưới giám sát, và đánh giá năng lực trước khi được xếp ca độc lập. Toàn bộ quá trình kéo dài trung bình 3 tuần.
+
+## Chính sách nhượng quyền thương hiệu
+Đối tác nhượng quyền phải tuân thủ tiêu chuẩn thiết kế, menu, và quy trình vận hành thống nhất trên toàn hệ thống. Highlands Coffee cử đội ngũ vận hành hỗ trợ khai trương trong 2 tuần đầu tiên và kiểm tra chất lượng định kỳ hàng quý.
+
+## Quản lý tồn kho nguyên liệu
+Mỗi chi nhánh kiểm kê tồn kho nguyên liệu 2 lần/ngày (đầu ca sáng và cuối ca tối). Nguyên liệu tươi được đặt hàng bổ sung hàng ngày qua hệ thống trung tâm, nguyên liệu khô đặt hàng theo chu kỳ tuần để tránh tồn kho quá hạn.
+
+## Chính sách môi trường và bao bì
+Highlands Coffee khuyến khích khách hàng dùng ly cá nhân bằng ưu đãi giảm 5.000đ mỗi đơn. Ống hút và ly mang đi sử dụng vật liệu thân thiện môi trường, đang triển khai thay thế toàn bộ nhựa dùng một lần trước năm 2027.
+
+## Chính sách tổ chức sự kiện tại quán
+Một số chi nhánh có không gian riêng cho họp nhóm, sự kiện nhỏ dưới 20 người, cần đặt trước qua quản lý chi nhánh tối thiểu 1 ngày. Chi phí thuê không gian có thể được miễn nếu tổng hóa đơn đồ uống vượt mức quy định.
+
+## Quy định đồng phục nhân viên
+Nhân viên pha chế và thu ngân mặc đồng phục theo đúng quy chuẩn thương hiệu, đeo bảng tên rõ ràng trong suốt ca làm việc. Tóc phải được cột gọn gàng khi đứng quầy pha chế để đảm bảo vệ sinh an toàn thực phẩm.
+
+## Chính sách ca làm việc và lương thưởng
+Nhân viên part-time làm việc theo ca 4-6 tiếng, lương tính theo giờ cộng phụ cấp ca tối. Nhân viên full-time được hưởng đầy đủ chế độ bảo hiểm theo quy định pháp luật và thưởng doanh số theo quý dựa trên kết quả kinh doanh chi nhánh.
+
+## Quy trình kiểm tra chất lượng định kỳ
+Đội ngũ QA trung tâm kiểm tra ngẫu nhiên chất lượng đồ uống và vệ sinh tại các chi nhánh mỗi quý một lần, không báo trước. Kết quả kiểm tra được dùng để đánh giá thi đua giữa các chi nhánh trong cùng khu vực.
+
+## Chính sách bảo mật thông tin khách hàng
+Thông tin cá nhân khách hàng đăng ký thành viên (số điện thoại, ngày sinh) được bảo mật theo quy định, chỉ dùng để gửi ưu đãi và không chia sẻ cho bên thứ ba khi chưa có sự đồng ý của khách hàng.
+
+## Quy trình xử lý sự cố mất điện, mất nước
+Khi xảy ra sự cố mất điện hoặc mất nước, chi nhánh phải thông báo ngay cho khách hàng đang có mặt, tạm ngưng nhận order mới và liên hệ đội kỹ thuật trung tâm xử lý trong thời gian sớm nhất có thể.
+
+## Chính sách tuyển dụng nhân sự mới
+Ứng viên ứng tuyển vị trí pha chế hoặc thu ngân trải qua vòng phỏng vấn trực tiếp tại chi nhánh, kiểm tra thái độ phục vụ và khả năng giao tiếp cơ bản trước khi được nhận vào đào tạo chính thức.
+

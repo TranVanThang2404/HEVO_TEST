@@ -1,0 +1,465 @@
+{"text": "Mình muốn biết Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào? nhé.", "subject": "tôi", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho chị đặt bàn tiệc sinh nhật vào chiều nay lúc 3h nhé", "subject": "chị", "action": "đặt bàn tiệc sinh nhật", "context": "chiều nay lúc 3h"}
+{"text": "Cho khách hỏi Wifi quán tên gì, mật khẩu là gì?", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Cho chị đặt 3 ly mocha nóng size S giúp em với.", "subject": "chị", "action": "đặt 3 ly mocha nóng size S", "context": ""}
+{"text": "Cho em đặt 3 ly doppio espresso size S, không đường nhé.", "subject": "em", "action": "đặt 3 ly doppio espresso size S", "context": "không đường"}
+{"text": "Cho anh đặt bàn cho nhóm 5 người vào chiều nay lúc 3h giúp em với", "subject": "anh", "action": "đặt bàn cho nhóm 5 người", "context": "chiều nay lúc 3h"}
+{"text": "Cho anh đặt bàn tiệc sinh nhật vào sáng mai 8h30 giúp em với", "subject": "anh", "action": "đặt bàn tiệc sinh nhật", "context": "sáng mai 8h30"}
+{"text": "Mình muốn biết nên chọn size nào cho vừa uống", "subject": "em", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Cho em đặt 1 ly freeze việt quất size S ạ.", "subject": "em", "action": "đặt 1 ly freeze việt quất size S", "context": ""}
+{"text": "Excuse me, Có thể thuê không gian quán để tổ chức sự kiện nhỏ không?", "subject": "tôi", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Cho chị đặt 2 ly trà quất mật ong size S, mang đi nhé.", "subject": "chị", "action": "đặt 2 ly trà quất mật ong size S", "context": "mang đi"}
+{"text": "Có món nào ít đường không (hỏi giúp bạn mình)", "subject": "tôi", "action": "có món nào ít đường không", "context": ""}
+{"text": "Highlands Coffee có giao hàng tận nơi không?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho chị đặt bàn cho nhóm 5 người vào ngày mai lúc 7h nhé", "subject": "chị", "action": "đặt bàn cho nhóm 5 người", "context": "ngày mai lúc 7h"}
+{"text": "Cho chị đặt 2 ly cà phê đen đá size S giúp em với.", "subject": "chị", "action": "đặt 2 ly cà phê đen đá size S", "context": ""}
+{"text": "Cho chị đặt 2 ly cà phê dừa, mang đi ạ.", "subject": "chị", "action": "đặt 2 ly cà phê dừa", "context": "mang đi"}
+{"text": "Cho tôi hỏi Hiện tại quán có chương trình khuyến mãi gì không?", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho em đặt 1 ly bánh croissant bơ giúp em với.", "subject": "em", "action": "đặt 1 ly bánh croissant bơ", "context": ""}
+{"text": "Cho em đặt 2 ly caramel macchiato size S, mang đi giúp em với.", "subject": "em", "action": "đặt 2 ly caramel macchiato size S", "context": "mang đi"}
+{"text": "Highlands Coffee có giao hàng tận nơi không? ạ.", "subject": "anh", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Xin hỏi Quán có phòng máy lạnh, có wifi mạnh để làm việc không?", "subject": "tôi", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Cho em đặt 2 ly freeze dâu mùa hè.", "subject": "em", "action": "đặt 2 ly freeze dâu mùa hè", "context": ""}
+{"text": "Cho chị đặt 2 ly freeze cà phê size S, uống tại chỗ ạ.", "subject": "chị", "action": "đặt 2 ly freeze cà phê size S", "context": "uống tại chỗ"}
+{"text": "Cho em đặt 2 ly trà quất mật ong size S giúp em với.", "subject": "em", "action": "đặt 2 ly trà quất mật ong size S", "context": ""}
+{"text": "Cho em đặt bàn tiệc sinh nhật vào sáng mai 8h30 giúp em với", "subject": "em", "action": "đặt bàn tiệc sinh nhật", "context": "sáng mai 8h30"}
+{"text": "Cho anh đặt 2 ly bánh croissant bơ, uống tại chỗ.", "subject": "anh", "action": "đặt 2 ly bánh croissant bơ", "context": "uống tại chỗ"}
+{"text": "Xin hỏi Highlands Coffee có giao hàng tận nơi không?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho anh đặt 2 ly bánh mì chả cá, không đường.", "subject": "anh", "action": "đặt 2 ly bánh mì chả cá", "context": "không đường"}
+{"text": "Cho anh đặt 1 ly trà lài size S, ít đá nhé.", "subject": "anh", "action": "đặt 1 ly trà lài size S", "context": "ít đá"}
+{"text": "Cho anh đặt 2 ly trà oolong tứ quý size S, uống tại chỗ.", "subject": "anh", "action": "đặt 2 ly trà oolong tứ quý size S", "context": "uống tại chỗ"}
+{"text": "Không biết món nào bán chạy nhất quán vậy ạ?", "subject": "mình", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho chị đặt bàn trước vào cuối tuần này nhé", "subject": "chị", "action": "đặt bàn trước", "context": "cuối tuần này"}
+{"text": "Cho chị đặt 2 ly cà phê dừa ạ.", "subject": "chị", "action": "đặt 2 ly cà phê dừa", "context": ""}
+{"text": "Cho em đặt bàn tiệc sinh nhật vào cuối tuần này nhé", "subject": "em", "action": "đặt bàn tiệc sinh nhật", "context": "cuối tuần này"}
+{"text": "Cho chị đặt 1 ly cà phê đen đá size S, ít đá nhé.", "subject": "chị", "action": "đặt 1 ly cà phê đen đá size S", "context": "ít đá"}
+{"text": "Cho anh đặt 3 ly hazelnut latte size S.", "subject": "anh", "action": "đặt 3 ly hazelnut latte size S", "context": ""}
+{"text": "Cho anh đặt 2 ly cà phê muối size S, mang đi giúp em với.", "subject": "anh", "action": "đặt 2 ly cà phê muối size S", "context": "mang đi"}
+{"text": "Cho chị đặt 1 ly freeze caramel size S giúp em với.", "subject": "chị", "action": "đặt 1 ly freeze caramel size S", "context": ""}
+{"text": "Xin hỏi nên chọn size nào cho vừa uống", "subject": "tôi", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Nên chọn size nào cho vừa uống (hỏi giúp bạn mình)", "subject": "anh", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Quán nhận thanh toán bằng những hình thức nào? cảm ơn shop.", "subject": "em", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Làm ơn cho hỏi món nào bán chạy nhất quán", "subject": "tôi", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho chị đặt 2 ly trà bí đao hạt chia size S, ít đá ạ.", "subject": "chị", "action": "đặt 2 ly trà bí đao hạt chia size S", "context": "ít đá"}
+{"text": "Cho em hỏi Wifi quán tên gì, mật khẩu là gì?", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Cho em đặt 3 ly combo chiều: trà đào + bánh phô mai ạ.", "subject": "em", "action": "đặt 3 ly combo chiều: trà đào + bánh phô mai", "context": ""}
+{"text": "Cho chị đặt 3 ly trà xanh mật ong size S, uống tại chỗ.", "subject": "chị", "action": "đặt 3 ly trà xanh mật ong size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 1 ly bánh croissant socola ạ.", "subject": "anh", "action": "đặt 1 ly bánh croissant socola", "context": ""}
+{"text": "Quán có chỗ gửi xe không, có mất phí không? ạ.", "subject": "chị", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Cho em đặt 1 ly cà phê cốt dừa freeze size S, ít đá.", "subject": "em", "action": "đặt 1 ly cà phê cốt dừa freeze size S", "context": "ít đá"}
+{"text": "Có combo nào tiết kiệm không ạ.", "subject": "khách", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Cho em đặt bàn cho nhóm 5 người vào tối nay giúp em với", "subject": "em", "action": "đặt bàn cho nhóm 5 người", "context": "tối nay"}
+{"text": "Highlands Coffee có giao hàng tận nơi không? (hỏi giúp bạn mình)", "subject": "tôi", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Xin hỏi Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "anh", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Anh/chị ơi, Highlands Coffee chi nhánh gần đây nhất ở đâu?", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Cho em đặt bàn cho nhóm 5 người vào sáng mai 8h30 em nhé", "subject": "em", "action": "đặt bàn cho nhóm 5 người", "context": "sáng mai 8h30"}
+{"text": "Cho em đặt 2 ly bánh muffin việt quất ạ.", "subject": "em", "action": "đặt 2 ly bánh muffin việt quất", "context": ""}
+{"text": "Excuse me, Wifi quán tên gì, mật khẩu là gì?", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Có được mang thú cưng vào quán không? (hỏi giúp bạn mình)", "subject": "khách", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Cho chị đặt 2 ly combo chiều: trà đào + bánh phô mai, không đường giúp em với.", "subject": "chị", "action": "đặt 2 ly combo chiều: trà đào + bánh phô mai", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly bánh mì que pate giúp em với.", "subject": "anh", "action": "đặt 3 ly bánh mì que pate", "context": ""}
+{"text": "Cho em đặt bàn cho nhóm 5 người vào ngày mai lúc 7h giúp em với", "subject": "em", "action": "đặt bàn cho nhóm 5 người", "context": "ngày mai lúc 7h"}
+{"text": "Cho chị đặt bàn tiệc sinh nhật vào cuối tuần này em nhé", "subject": "chị", "action": "đặt bàn tiệc sinh nhật", "context": "cuối tuần này"}
+{"text": "Excuse me, Quán có phòng máy lạnh, có wifi mạnh để làm việc không?", "subject": "khách", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Anh/chị ơi, món nào phù hợp cho người mới uống cà phê", "subject": "khách", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho em đặt 1 ly trà đào cam sả size S nhé.", "subject": "em", "action": "đặt 1 ly trà đào cam sả size S", "context": ""}
+{"text": "Cho anh đặt 3 ly mocha nóng size S ạ.", "subject": "anh", "action": "đặt 3 ly mocha nóng size S", "context": ""}
+{"text": "Cho khách hỏi có món nào ít đường không", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Cho em đặt 3 ly freeze socola size S, mang đi giúp em với.", "subject": "em", "action": "đặt 3 ly freeze socola size S", "context": "mang đi"}
+{"text": "Anh/chị ơi, Wifi quán tên gì, mật khẩu là gì?", "subject": "anh", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Không biết món nào phù hợp cho người mới uống cà phê vậy ạ?", "subject": "tôi", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho anh đặt 1 ly hazelnut latte size S, ít đá ạ.", "subject": "anh", "action": "đặt 1 ly hazelnut latte size S", "context": "ít đá"}
+{"text": "Làm ơn cho hỏi tư vấn giúp món gì mát mát cho mùa hè", "subject": "khách", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Wifi quán tên gì, mật khẩu là gì?", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Không biết tư vấn giúp món gì mát mát cho mùa hè vậy ạ?", "subject": "khách", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Mình muốn biết có món nào ít đường không", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Cho anh đặt 3 ly trà chanh dây size S, không đường nhé.", "subject": "anh", "action": "đặt 3 ly trà chanh dây size S", "context": "không đường"}
+{"text": "Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "anh", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Mình muốn biết Quán có phòng máy lạnh, có wifi mạnh để làm việc không?", "subject": "khách", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Có được mang thú cưng vào quán không? cảm ơn shop.", "subject": "em", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Cho chị đặt 3 ly trà chanh dây size S ạ.", "subject": "chị", "action": "đặt 3 ly trà chanh dây size S", "context": ""}
+{"text": "Làm ơn cho hỏi món nào phù hợp cho người mới uống cà phê", "subject": "anh", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho em đặt 2 ly trà quất mật ong size S ạ.", "subject": "em", "action": "đặt 2 ly trà quất mật ong size S", "context": ""}
+{"text": "Cho anh đặt bàn trước vào ngày mai lúc 7h nhé", "subject": "anh", "action": "đặt bàn trước", "context": "ngày mai lúc 7h"}
+{"text": "Mình muốn biết món nào bán chạy nhất quán", "subject": "khách", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Có món nào ít đường không cảm ơn shop.", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Món nào bán chạy nhất quán nhé.", "subject": "khách", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Xin hỏi Quán có ghế cho trẻ em, có món cho bé không?", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho em đặt 3 ly bánh mì que pate, không đường nhé.", "subject": "em", "action": "đặt 3 ly bánh mì que pate", "context": "không đường"}
+{"text": "Xin hỏi Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho mình hỏi món nào phù hợp cho người mới uống cà phê", "subject": "mình", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho anh đặt 1 ly trà ổi hồng giúp em với.", "subject": "anh", "action": "đặt 1 ly trà ổi hồng", "context": ""}
+{"text": "Excuse me, món nào phù hợp cho người mới uống cà phê", "subject": "khách", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho chị đặt 3 ly hồng trà macchiato size S, ít đá ạ.", "subject": "chị", "action": "đặt 3 ly hồng trà macchiato size S", "context": "ít đá"}
+{"text": "Cho chị đặt bàn tiệc sinh nhật vào tối nay giúp em với", "subject": "chị", "action": "đặt bàn tiệc sinh nhật", "context": "tối nay"}
+{"text": "Cho chị đặt bàn cho nhóm 5 người vào sáng mai 8h30 nhé", "subject": "chị", "action": "đặt bàn cho nhóm 5 người", "context": "sáng mai 8h30"}
+{"text": "Quán nhận thanh toán bằng những hình thức nào? (hỏi giúp bạn mình)", "subject": "chị", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Cho em đặt 1 ly trà đào cam sả size S giúp em với.", "subject": "em", "action": "đặt 1 ly trà đào cam sả size S", "context": ""}
+{"text": "Quán có ghế cho trẻ em, có món cho bé không? cảm ơn shop.", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho anh đặt 3 ly bánh su kem trà xanh, ít đá.", "subject": "anh", "action": "đặt 3 ly bánh su kem trà xanh", "context": "ít đá"}
+{"text": "Highlands Coffee chi nhánh gần đây nhất ở đâu? ạ.", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Cho em đặt 2 ly cà phê dừa, uống tại chỗ ạ.", "subject": "em", "action": "đặt 2 ly cà phê dừa", "context": "uống tại chỗ"}
+{"text": "Cho em đặt 3 ly freeze dâu size S ạ.", "subject": "em", "action": "đặt 3 ly freeze dâu size S", "context": ""}
+{"text": "Cho em đặt 3 ly freeze dâu mùa hè, uống tại chỗ giúp em với.", "subject": "em", "action": "đặt 3 ly freeze dâu mùa hè", "context": "uống tại chỗ"}
+{"text": "Cho chị đặt 1 ly mocha nóng size S, không đường ạ.", "subject": "chị", "action": "đặt 1 ly mocha nóng size S", "context": "không đường"}
+{"text": "Có combo nào tiết kiệm không nhé.", "subject": "khách", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai? (hỏi giúp bạn mình)", "subject": "em", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Gợi ý món nào đang hot không", "subject": "tôi", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Wifi quán tên gì, mật khẩu là gì? cảm ơn shop.", "subject": "chị", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Cho chị đặt 3 ly trà lài size S nhé.", "subject": "chị", "action": "đặt 3 ly trà lài size S", "context": ""}
+{"text": "Cho anh đặt 2 ly freeze chanh dây size S ạ.", "subject": "anh", "action": "đặt 2 ly freeze chanh dây size S", "context": ""}
+{"text": "Cho em đặt 2 ly freeze trà xanh size S, không đường nhé.", "subject": "em", "action": "đặt 2 ly freeze trà xanh size S", "context": "không đường"}
+{"text": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho anh đặt 1 ly bánh tiramisu, không đường giúp em với.", "subject": "anh", "action": "đặt 1 ly bánh tiramisu", "context": "không đường"}
+{"text": "Excuse me, có món nào ít đường không", "subject": "anh", "action": "có món nào ít đường không", "context": ""}
+{"text": "Highlands Coffee chi nhánh gần đây nhất ở đâu? (hỏi giúp bạn mình)", "subject": "chị", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không? ạ.", "subject": "mình", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Không biết Muốn phản ánh chất lượng phục vụ thì làm sao? vậy ạ?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Mình muốn biết Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho em đặt 2 ly freeze caramel size S, uống tại chỗ nhé.", "subject": "em", "action": "đặt 2 ly freeze caramel size S", "context": "uống tại chỗ"}
+{"text": "Anh/chị ơi, Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Làm ơn cho hỏi Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Cho chị đặt 1 ly freeze trà xanh size S giúp em với.", "subject": "chị", "action": "đặt 1 ly freeze trà xanh size S", "context": ""}
+{"text": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào? cảm ơn shop.", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho em đặt 1 ly americano nóng size S, mang đi nhé.", "subject": "em", "action": "đặt 1 ly americano nóng size S", "context": "mang đi"}
+{"text": "Có được mang thú cưng vào quán không? ạ.", "subject": "khách", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Có món nào ngọt mà không quá béo không cảm ơn shop.", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Quán có chỗ gửi xe không, có mất phí không? cảm ơn shop.", "subject": "chị", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Có món nào ngọt mà không quá béo không (hỏi giúp bạn mình)", "subject": "tôi", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Cho chị đặt 1 ly cookie socola chip, uống tại chỗ.", "subject": "chị", "action": "đặt 1 ly cookie socola chip", "context": "uống tại chỗ"}
+{"text": "Cho em đặt 2 ly trà dâu tằm size S.", "subject": "em", "action": "đặt 2 ly trà dâu tằm size S", "context": ""}
+{"text": "Cho anh đặt 2 ly cà phê muối size S, không đường.", "subject": "anh", "action": "đặt 2 ly cà phê muối size S", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly trà đào cam sả size S nhé.", "subject": "anh", "action": "đặt 3 ly trà đào cam sả size S", "context": ""}
+{"text": "Cho em đặt 3 ly bánh croissant socola, ít đá nhé.", "subject": "em", "action": "đặt 3 ly bánh croissant socola", "context": "ít đá"}
+{"text": "Món nào bán chạy nhất quán ạ.", "subject": "khách", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho chị hỏi Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho chị đặt 3 ly bánh phô mai nướng ạ.", "subject": "chị", "action": "đặt 3 ly bánh phô mai nướng", "context": ""}
+{"text": "Cho chị đặt 2 ly trà chanh dây size S giúp em với.", "subject": "chị", "action": "đặt 2 ly trà chanh dây size S", "context": ""}
+{"text": "Cho anh đặt 2 ly hồng trà macchiato size S giúp em với.", "subject": "anh", "action": "đặt 2 ly hồng trà macchiato size S", "context": ""}
+{"text": "Cho anh đặt 2 ly cà phê sữa đá size S ạ.", "subject": "anh", "action": "đặt 2 ly cà phê sữa đá size S", "context": ""}
+{"text": "Cho anh đặt 2 ly trà sen vàng size S giúp em với.", "subject": "anh", "action": "đặt 2 ly trà sen vàng size S", "context": ""}
+{"text": "Cho chị đặt 3 ly bánh muffin việt quất.", "subject": "chị", "action": "đặt 3 ly bánh muffin việt quất", "context": ""}
+{"text": "Cho chị đặt 1 ly trà quất mật ong size S nhé.", "subject": "chị", "action": "đặt 1 ly trà quất mật ong size S", "context": ""}
+{"text": "Excuse me, có món nào ngọt mà không quá béo không", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không? nhé.", "subject": "khách", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Mình muốn biết tư vấn giúp món gì mát mát cho mùa hè", "subject": "khách", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Cho tôi hỏi Wifi quán tên gì, mật khẩu là gì?", "subject": "tôi", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Cho anh đặt 3 ly cà phê đen đá size S nhé.", "subject": "anh", "action": "đặt 3 ly cà phê đen đá size S", "context": ""}
+{"text": "Xin hỏi gợi ý món nào đang hot không", "subject": "anh", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Có món nào ngọt mà không quá béo không", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Không biết Có được mang thú cưng vào quán không? vậy ạ?", "subject": "khách", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Không biết Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến? vậy ạ?", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho chị đặt 2 ly bánh croissant socola ạ.", "subject": "chị", "action": "đặt 2 ly bánh croissant socola", "context": ""}
+{"text": "Có món nào ít đường không nhé.", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Cho anh hỏi Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai?", "subject": "khách", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Cho anh đặt 3 ly americano đá size S, không đường ạ.", "subject": "anh", "action": "đặt 3 ly americano đá size S", "context": "không đường"}
+{"text": "Không biết Highlands Coffee có giao hàng tận nơi không? vậy ạ?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho chị đặt 2 ly bánh tiramisu, không đường giúp em với.", "subject": "chị", "action": "đặt 2 ly bánh tiramisu", "context": "không đường"}
+{"text": "Quán có ghế cho trẻ em, có món cho bé không?", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho anh đặt bàn cho nhóm 5 người vào tối nay giúp em với", "subject": "anh", "action": "đặt bàn cho nhóm 5 người", "context": "tối nay"}
+{"text": "Cho chị đặt bàn tiệc sinh nhật vào chiều nay lúc 3h giúp em với", "subject": "chị", "action": "đặt bàn tiệc sinh nhật", "context": "chiều nay lúc 3h"}
+{"text": "Xin hỏi Highlands Coffee chi nhánh gần đây nhất ở đâu?", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Wifi quán tên gì, mật khẩu là gì? (hỏi giúp bạn mình)", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Cho anh đặt 3 ly freeze socola size S, uống tại chỗ.", "subject": "anh", "action": "đặt 3 ly freeze socola size S", "context": "uống tại chỗ"}
+{"text": "Cho chị đặt 2 ly trà xoài size S, uống tại chỗ ạ.", "subject": "chị", "action": "đặt 2 ly trà xoài size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt bàn trước vào chiều nay lúc 3h nhé", "subject": "anh", "action": "đặt bàn trước", "context": "chiều nay lúc 3h"}
+{"text": "Cho chị đặt 2 ly freeze dâu mùa hè, mang đi.", "subject": "chị", "action": "đặt 2 ly freeze dâu mùa hè", "context": "mang đi"}
+{"text": "Cho chị đặt 2 ly hazelnut latte size S.", "subject": "chị", "action": "đặt 2 ly hazelnut latte size S", "context": ""}
+{"text": "Cho em đặt 3 ly bánh donut đường, uống tại chỗ.", "subject": "em", "action": "đặt 3 ly bánh donut đường", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 3 ly espresso shot size S, mang đi nhé.", "subject": "anh", "action": "đặt 3 ly espresso shot size S", "context": "mang đi"}
+{"text": "Làm ơn cho hỏi Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho anh đặt 3 ly cà phê trứng size S, ít đá ạ.", "subject": "anh", "action": "đặt 3 ly cà phê trứng size S", "context": "ít đá"}
+{"text": "Cho anh đặt 2 ly trà bí đao hạt chia size S giúp em với.", "subject": "anh", "action": "đặt 2 ly trà bí đao hạt chia size S", "context": ""}
+{"text": "Hiện tại quán có chương trình khuyến mãi gì không? nhé.", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho em đặt 3 ly bánh croissant bơ, mang đi giúp em với.", "subject": "em", "action": "đặt 3 ly bánh croissant bơ", "context": "mang đi"}
+{"text": "Cho anh đặt 1 ly cà phê trứng size S, uống tại chỗ giúp em với.", "subject": "anh", "action": "đặt 1 ly cà phê trứng size S", "context": "uống tại chỗ"}
+{"text": "Cho tôi hỏi Quán có phòng máy lạnh, có wifi mạnh để làm việc không?", "subject": "khách", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Cho anh đặt 2 ly latte đá size S, ít đá.", "subject": "anh", "action": "đặt 2 ly latte đá size S", "context": "ít đá"}
+{"text": "Muốn phản ánh chất lượng phục vụ thì làm sao? ạ.", "subject": "mình", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Làm ơn cho hỏi gợi ý món nào đang hot không", "subject": "em", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Cho mình hỏi Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "mình", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho anh đặt bàn cho nhóm 5 người vào tối nay em nhé", "subject": "anh", "action": "đặt bàn cho nhóm 5 người", "context": "tối nay"}
+{"text": "Cho chị đặt 2 ly cà phê trứng size S, mang đi giúp em với.", "subject": "chị", "action": "đặt 2 ly cà phê trứng size S", "context": "mang đi"}
+{"text": "Cho chị đặt 2 ly freeze matcha size S ạ.", "subject": "chị", "action": "đặt 2 ly freeze matcha size S", "context": ""}
+{"text": "Cho chị đặt 3 ly bánh phô mai nướng, không đường.", "subject": "chị", "action": "đặt 3 ly bánh phô mai nướng", "context": "không đường"}
+{"text": "Làm sao để đăng ký thành viên tích điểm? cảm ơn shop.", "subject": "khách", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Cho anh hỏi Quán có chỗ gửi xe không, có mất phí không?", "subject": "khách", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Làm ơn cho hỏi Quán có ghế cho trẻ em, có món cho bé không?", "subject": "mình", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Làm ơn cho hỏi Highlands Coffee có giao hàng tận nơi không?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho em đặt 3 ly vanilla latte size S giúp em với.", "subject": "em", "action": "đặt 3 ly vanilla latte size S", "context": ""}
+{"text": "Highlands Coffee chi nhánh gần đây nhất ở đâu? cảm ơn shop.", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Cho chị đặt 3 ly bạc xỉu size S, mang đi.", "subject": "chị", "action": "đặt 3 ly bạc xỉu size S", "context": "mang đi"}
+{"text": "Làm ơn cho hỏi Có thể thuê không gian quán để tổ chức sự kiện nhỏ không?", "subject": "khách", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Muốn phản ánh chất lượng phục vụ thì làm sao? (hỏi giúp bạn mình)", "subject": "mình", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Cho em đặt 3 ly hazelnut latte size S, không đường nhé.", "subject": "em", "action": "đặt 3 ly hazelnut latte size S", "context": "không đường"}
+{"text": "Cho chị đặt 2 ly bánh mì que pate giúp em với.", "subject": "chị", "action": "đặt 2 ly bánh mì que pate", "context": ""}
+{"text": "Cho em đặt 1 ly cookie socola chip ạ.", "subject": "em", "action": "đặt 1 ly cookie socola chip", "context": ""}
+{"text": "Xin hỏi món nào phù hợp cho người mới uống cà phê", "subject": "khách", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho em đặt 1 ly bánh su kem, mang đi.", "subject": "em", "action": "đặt 1 ly bánh su kem", "context": "mang đi"}
+{"text": "Gợi ý món nào đang hot không cảm ơn shop.", "subject": "mình", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Cho chị đặt 2 ly cold brew size S giúp em với.", "subject": "chị", "action": "đặt 2 ly cold brew size S", "context": ""}
+{"text": "Cho anh đặt 1 ly bánh croissant socola nhé.", "subject": "anh", "action": "đặt 1 ly bánh croissant socola", "context": ""}
+{"text": "Cho tôi hỏi Quán nhận thanh toán bằng những hình thức nào?", "subject": "tôi", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Cho anh đặt 2 ly combo chiều: trà đào + bánh phô mai ạ.", "subject": "anh", "action": "đặt 2 ly combo chiều: trà đào + bánh phô mai", "context": ""}
+{"text": "Cho chị đặt bàn tiệc sinh nhật vào tối nay nhé", "subject": "chị", "action": "đặt bàn tiệc sinh nhật", "context": "tối nay"}
+{"text": "Cho em đặt bàn tiệc sinh nhật vào cuối tuần này em nhé", "subject": "em", "action": "đặt bàn tiệc sinh nhật", "context": "cuối tuần này"}
+{"text": "Không biết Quán có ghế cho trẻ em, có món cho bé không? vậy ạ?", "subject": "chị", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho chị đặt 2 ly trà lài size S, ít đá ạ.", "subject": "chị", "action": "đặt 2 ly trà lài size S", "context": "ít đá"}
+{"text": "Món nào phù hợp cho người mới uống cà phê ạ.", "subject": "khách", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho khách hỏi Quán có ghế cho trẻ em, có món cho bé không?", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho anh đặt 3 ly freeze socola size S, không đường giúp em với.", "subject": "anh", "action": "đặt 3 ly freeze socola size S", "context": "không đường"}
+{"text": "Gợi ý món nào đang hot không ạ.", "subject": "em", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Cho anh đặt 2 ly bánh phô mai nướng nhé.", "subject": "anh", "action": "đặt 2 ly bánh phô mai nướng", "context": ""}
+{"text": "Cho em đặt bàn trước vào chiều nay lúc 3h giúp em với", "subject": "em", "action": "đặt bàn trước", "context": "chiều nay lúc 3h"}
+{"text": "Quán có ghế cho trẻ em, có món cho bé không? (hỏi giúp bạn mình)", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Anh/chị ơi, Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "mình", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho anh đặt bàn trước vào sáng mai 8h30 nhé", "subject": "anh", "action": "đặt bàn trước", "context": "sáng mai 8h30"}
+{"text": "Cho em đặt 3 ly espresso shot size S, ít đá giúp em với.", "subject": "em", "action": "đặt 3 ly espresso shot size S", "context": "ít đá"}
+{"text": "Cho em đặt 3 ly trà vải size S, ít đá nhé.", "subject": "em", "action": "đặt 3 ly trà vải size S", "context": "ít đá"}
+{"text": "Cho anh đặt 1 ly cà phê cốt dừa freeze size S, không đường giúp em với.", "subject": "anh", "action": "đặt 1 ly cà phê cốt dừa freeze size S", "context": "không đường"}
+{"text": "Excuse me, gợi ý món nào đang hot không", "subject": "em", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Xin hỏi Có được mang thú cưng vào quán không?", "subject": "khách", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Làm ơn cho hỏi Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho em đặt 3 ly bánh tiramisu nhé.", "subject": "em", "action": "đặt 3 ly bánh tiramisu", "context": ""}
+{"text": "Mình muốn biết Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho anh đặt bàn trước vào chiều nay lúc 3h em nhé", "subject": "anh", "action": "đặt bàn trước", "context": "chiều nay lúc 3h"}
+{"text": "Cho anh đặt 3 ly bánh su kem ạ.", "subject": "anh", "action": "đặt 3 ly bánh su kem", "context": ""}
+{"text": "Cho em hỏi tư vấn giúp món gì mát mát cho mùa hè", "subject": "em", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Cho anh đặt bàn tiệc sinh nhật vào tối nay giúp em với", "subject": "anh", "action": "đặt bàn tiệc sinh nhật", "context": "tối nay"}
+{"text": "Cho em đặt 1 ly bánh donut đường giúp em với.", "subject": "em", "action": "đặt 1 ly bánh donut đường", "context": ""}
+{"text": "Cho anh đặt 3 ly bánh mì que pate, ít đá.", "subject": "anh", "action": "đặt 3 ly bánh mì que pate", "context": "ít đá"}
+{"text": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không?", "subject": "khách", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Cho chị đặt 3 ly combo sáng: cà phê sữa đá + bánh mì que nhé.", "subject": "chị", "action": "đặt 3 ly combo sáng: cà phê sữa đá + bánh mì que", "context": ""}
+{"text": "Mình muốn biết có món nào ngọt mà không quá béo không", "subject": "chị", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Highlands Coffee có giao hàng tận nơi không? cảm ơn shop.", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho em đặt 2 ly mocha đá size S.", "subject": "em", "action": "đặt 2 ly mocha đá size S", "context": ""}
+{"text": "Mình muốn biết Làm sao để đăng ký thành viên tích điểm?", "subject": "mình", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Cho anh đặt 2 ly americano đá size S, mang đi giúp em với.", "subject": "anh", "action": "đặt 2 ly americano đá size S", "context": "mang đi"}
+{"text": "Cho chị đặt bàn trước vào tối nay giúp em với", "subject": "chị", "action": "đặt bàn trước", "context": "tối nay"}
+{"text": "Mình muốn biết có combo nào tiết kiệm không", "subject": "anh", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Làm ơn cho hỏi Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "khách", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Excuse me, Highlands Coffee chi nhánh gần đây nhất ở đâu?", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Mình muốn biết Wifi quán tên gì, mật khẩu là gì?", "subject": "khách", "action": "Wifi quán tên gì, mật khẩu là gì", "context": ""}
+{"text": "Món nào bán chạy nhất quán (hỏi giúp bạn mình)", "subject": "khách", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho em đặt 3 ly trà đào cam sả size S.", "subject": "em", "action": "đặt 3 ly trà đào cam sả size S", "context": ""}
+{"text": "Mình muốn biết Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "tôi", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho chị đặt 2 ly bạc xỉu size S, không đường ạ.", "subject": "chị", "action": "đặt 2 ly bạc xỉu size S", "context": "không đường"}
+{"text": "Cho em đặt 2 ly trà bí đao hạt chia size S, mang đi.", "subject": "em", "action": "đặt 2 ly trà bí đao hạt chia size S", "context": "mang đi"}
+{"text": "Cho chị đặt 1 ly trà sen vàng size S, mang đi ạ.", "subject": "chị", "action": "đặt 1 ly trà sen vàng size S", "context": "mang đi"}
+{"text": "Cho anh đặt 3 ly trà xoài size S, uống tại chỗ ạ.", "subject": "anh", "action": "đặt 3 ly trà xoài size S", "context": "uống tại chỗ"}
+{"text": "Cho chị đặt 2 ly americano nóng size S ạ.", "subject": "chị", "action": "đặt 2 ly americano nóng size S", "context": ""}
+{"text": "Cho chị đặt 3 ly freeze caramel size S, ít đá giúp em với.", "subject": "chị", "action": "đặt 3 ly freeze caramel size S", "context": "ít đá"}
+{"text": "Cho em đặt 3 ly bánh phô mai nướng, ít đá ạ.", "subject": "em", "action": "đặt 3 ly bánh phô mai nướng", "context": "ít đá"}
+{"text": "Cho anh đặt 1 ly latte nóng size S, không đường.", "subject": "anh", "action": "đặt 1 ly latte nóng size S", "context": "không đường"}
+{"text": "Cho em đặt 1 ly mocha đá size S, không đường giúp em với.", "subject": "em", "action": "đặt 1 ly mocha đá size S", "context": "không đường"}
+{"text": "Mình muốn biết Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai?", "subject": "khách", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Cho anh đặt 2 ly freeze việt quất size S, ít đá giúp em với.", "subject": "anh", "action": "đặt 2 ly freeze việt quất size S", "context": "ít đá"}
+{"text": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai?", "subject": "khách", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Cho em đặt bàn trước vào sáng mai 8h30 em nhé", "subject": "em", "action": "đặt bàn trước", "context": "sáng mai 8h30"}
+{"text": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào? ạ.", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho em đặt 1 ly freeze việt quất size S, ít đá.", "subject": "em", "action": "đặt 1 ly freeze việt quất size S", "context": "ít đá"}
+{"text": "Cho chị đặt 3 ly freeze chanh dây size S, uống tại chỗ giúp em với.", "subject": "chị", "action": "đặt 3 ly freeze chanh dây size S", "context": "uống tại chỗ"}
+{"text": "Cho em hỏi món nào phù hợp cho người mới uống cà phê", "subject": "em", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Cho khách hỏi Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Anh/chị ơi, Có thể thuê không gian quán để tổ chức sự kiện nhỏ không?", "subject": "chị", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Cho chị đặt bàn cho nhóm 5 người vào tối nay em nhé", "subject": "chị", "action": "đặt bàn cho nhóm 5 người", "context": "tối nay"}
+{"text": "Cho em đặt 2 ly bạc xỉu size S, ít đá nhé.", "subject": "em", "action": "đặt 2 ly bạc xỉu size S", "context": "ít đá"}
+{"text": "Cho anh đặt 1 ly freeze matcha size S.", "subject": "anh", "action": "đặt 1 ly freeze matcha size S", "context": ""}
+{"text": "Cho anh đặt 2 ly bánh muffin việt quất, không đường giúp em với.", "subject": "anh", "action": "đặt 2 ly bánh muffin việt quất", "context": "không đường"}
+{"text": "Quán có ghế cho trẻ em, có món cho bé không? nhé.", "subject": "khách", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho em đặt 2 ly cappuccino size S, ít đá ạ.", "subject": "em", "action": "đặt 2 ly cappuccino size S", "context": "ít đá"}
+{"text": "Mình muốn biết Hiện tại quán có chương trình khuyến mãi gì không?", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Anh/chị ơi, Hiện tại quán có chương trình khuyến mãi gì không?", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho chị đặt 2 ly latte đá size S, không đường ạ.", "subject": "chị", "action": "đặt 2 ly latte đá size S", "context": "không đường"}
+{"text": "Excuse me, tư vấn giúp món gì mát mát cho mùa hè", "subject": "tôi", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Cho em đặt 2 ly trà ổi hồng, mang đi.", "subject": "em", "action": "đặt 2 ly trà ổi hồng", "context": "mang đi"}
+{"text": "Cho em đặt bàn cho nhóm 5 người vào cuối tuần này nhé", "subject": "em", "action": "đặt bàn cho nhóm 5 người", "context": "cuối tuần này"}
+{"text": "Không biết Quán có chỗ gửi xe không, có mất phí không? vậy ạ?", "subject": "tôi", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Cho chị đặt 2 ly trà xoài size S, không đường nhé.", "subject": "chị", "action": "đặt 2 ly trà xoài size S", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly trà vải size S nhé.", "subject": "anh", "action": "đặt 3 ly trà vải size S", "context": ""}
+{"text": "Cho em đặt 2 ly bánh tiramisu, mang đi nhé.", "subject": "em", "action": "đặt 2 ly bánh tiramisu", "context": "mang đi"}
+{"text": "Xin hỏi Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai?", "subject": "anh", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Anh/chị ơi, Làm sao để đăng ký thành viên tích điểm?", "subject": "chị", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Cho em đặt 3 ly espresso shot size S, không đường ạ.", "subject": "em", "action": "đặt 3 ly espresso shot size S", "context": "không đường"}
+{"text": "Cho em đặt 1 ly freeze cà phê size S ạ.", "subject": "em", "action": "đặt 1 ly freeze cà phê size S", "context": ""}
+{"text": "Cho anh đặt 2 ly trà bí đao hạt chia size S, không đường ạ.", "subject": "anh", "action": "đặt 2 ly trà bí đao hạt chia size S", "context": "không đường"}
+{"text": "Xin hỏi tư vấn giúp món gì mát mát cho mùa hè", "subject": "anh", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Có món nào ngọt mà không quá béo không nhé.", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Cho em đặt 2 ly cappuccino size S giúp em với.", "subject": "em", "action": "đặt 2 ly cappuccino size S", "context": ""}
+{"text": "Anh/chị ơi, có món nào ít đường không", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Cho anh đặt 3 ly bánh mì chả cá, không đường nhé.", "subject": "anh", "action": "đặt 3 ly bánh mì chả cá", "context": "không đường"}
+{"text": "Cho chị đặt 3 ly doppio espresso size S, mang đi ạ.", "subject": "chị", "action": "đặt 3 ly doppio espresso size S", "context": "mang đi"}
+{"text": "Cho em đặt 2 ly doppio espresso size S, mang đi giúp em với.", "subject": "em", "action": "đặt 2 ly doppio espresso size S", "context": "mang đi"}
+{"text": "Cho em đặt 3 ly freeze socola size S, không đường ạ.", "subject": "em", "action": "đặt 3 ly freeze socola size S", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly trà lài size S.", "subject": "anh", "action": "đặt 3 ly trà lài size S", "context": ""}
+{"text": "Cho em đặt 2 ly bánh su kem giúp em với.", "subject": "em", "action": "đặt 2 ly bánh su kem", "context": ""}
+{"text": "Cho em đặt bàn trước vào ngày mai lúc 7h nhé", "subject": "em", "action": "đặt bàn trước", "context": "ngày mai lúc 7h"}
+{"text": "Cho chị đặt 3 ly bánh muffin việt quất ạ.", "subject": "chị", "action": "đặt 3 ly bánh muffin việt quất", "context": ""}
+{"text": "Cho chị đặt 1 ly bánh donut đường nhé.", "subject": "chị", "action": "đặt 1 ly bánh donut đường", "context": ""}
+{"text": "Excuse me, Làm sao để đăng ký thành viên tích điểm?", "subject": "mình", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Cho chị đặt 3 ly freeze dâu size S, mang đi giúp em với.", "subject": "chị", "action": "đặt 3 ly freeze dâu size S", "context": "mang đi"}
+{"text": "Cho anh đặt 3 ly hồng trà macchiato size S, ít đá ạ.", "subject": "anh", "action": "đặt 3 ly hồng trà macchiato size S", "context": "ít đá"}
+{"text": "Cho anh đặt bàn tiệc sinh nhật vào ngày mai lúc 7h giúp em với", "subject": "anh", "action": "đặt bàn tiệc sinh nhật", "context": "ngày mai lúc 7h"}
+{"text": "Tư vấn giúp món gì mát mát cho mùa hè cảm ơn shop.", "subject": "khách", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Cho anh đặt 3 ly freeze caramel size S, không đường ạ.", "subject": "anh", "action": "đặt 3 ly freeze caramel size S", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly cold brew size S, uống tại chỗ nhé.", "subject": "anh", "action": "đặt 3 ly cold brew size S", "context": "uống tại chỗ"}
+{"text": "Cho em đặt 2 ly trà ổi hồng, uống tại chỗ giúp em với.", "subject": "em", "action": "đặt 2 ly trà ổi hồng", "context": "uống tại chỗ"}
+{"text": "Cho chị đặt 1 ly trà dâu tằm size S, không đường ạ.", "subject": "chị", "action": "đặt 1 ly trà dâu tằm size S", "context": "không đường"}
+{"text": "Anh/chị ơi, Có được mang thú cưng vào quán không?", "subject": "khách", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến? (hỏi giúp bạn mình)", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho em đặt bàn tiệc sinh nhật vào ngày mai lúc 7h em nhé", "subject": "em", "action": "đặt bàn tiệc sinh nhật", "context": "ngày mai lúc 7h"}
+{"text": "Cho mình hỏi có món nào ngọt mà không quá béo không", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Quán có ghế cho trẻ em, có món cho bé không? ạ.", "subject": "mình", "action": "Quán có ghế cho trẻ em, có món cho bé không", "context": ""}
+{"text": "Cho chị đặt 3 ly freeze trà xanh size S, ít đá ạ.", "subject": "chị", "action": "đặt 3 ly freeze trà xanh size S", "context": "ít đá"}
+{"text": "Làm ơn cho hỏi nên chọn size nào cho vừa uống", "subject": "anh", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai? nhé.", "subject": "tôi", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Hiện tại quán có chương trình khuyến mãi gì không? cảm ơn shop.", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho anh đặt 2 ly americano nóng size S giúp em với.", "subject": "anh", "action": "đặt 2 ly americano nóng size S", "context": ""}
+{"text": "Cho em đặt 3 ly americano đá size S, không đường ạ.", "subject": "em", "action": "đặt 3 ly americano đá size S", "context": "không đường"}
+{"text": "Cho anh đặt 1 ly freeze matcha size S, uống tại chỗ ạ.", "subject": "anh", "action": "đặt 1 ly freeze matcha size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 3 ly freeze dâu size S ạ.", "subject": "anh", "action": "đặt 3 ly freeze dâu size S", "context": ""}
+{"text": "Quán có chỗ gửi xe không, có mất phí không?", "subject": "tôi", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Cho chị đặt 2 ly espresso shot size S, không đường giúp em với.", "subject": "chị", "action": "đặt 2 ly espresso shot size S", "context": "không đường"}
+{"text": "Cho em đặt 1 ly cappuccino size S, uống tại chỗ.", "subject": "em", "action": "đặt 1 ly cappuccino size S", "context": "uống tại chỗ"}
+{"text": "Không biết Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào? vậy ạ?", "subject": "tôi", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Tư vấn giúp món gì mát mát cho mùa hè", "subject": "khách", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Anh/chị ơi, Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai?", "subject": "em", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Cho anh đặt 2 ly trà chanh dây size S, uống tại chỗ ạ.", "subject": "anh", "action": "đặt 2 ly trà chanh dây size S", "context": "uống tại chỗ"}
+{"text": "Quán nhận thanh toán bằng những hình thức nào? ạ.", "subject": "em", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến? cảm ơn shop.", "subject": "khách", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Mình muốn biết Highlands Coffee có giao hàng tận nơi không?", "subject": "chị", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho chị đặt bàn cho nhóm 5 người vào cuối tuần này nhé", "subject": "chị", "action": "đặt bàn cho nhóm 5 người", "context": "cuối tuần này"}
+{"text": "Cho em đặt 1 ly trà dâu tằm size S, uống tại chỗ nhé.", "subject": "em", "action": "đặt 1 ly trà dâu tằm size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt bàn tiệc sinh nhật vào cuối tuần này giúp em với", "subject": "anh", "action": "đặt bàn tiệc sinh nhật", "context": "cuối tuần này"}
+{"text": "Cho chị đặt 3 ly bánh su kem trà xanh, ít đá giúp em với.", "subject": "chị", "action": "đặt 3 ly bánh su kem trà xanh", "context": "ít đá"}
+{"text": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không? ạ.", "subject": "tôi", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Xin hỏi có món nào ít đường không", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không? (hỏi giúp bạn mình)", "subject": "khách", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Không biết Có thể thuê không gian quán để tổ chức sự kiện nhỏ không? vậy ạ?", "subject": "tôi", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Excuse me, Highlands Coffee có giao hàng tận nơi không?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho chị đặt 2 ly freeze chanh dây size S ạ.", "subject": "chị", "action": "đặt 2 ly freeze chanh dây size S", "context": ""}
+{"text": "Cho anh đặt 2 ly vanilla latte size S.", "subject": "anh", "action": "đặt 2 ly vanilla latte size S", "context": ""}
+{"text": "Anh/chị ơi, có combo nào tiết kiệm không", "subject": "em", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Cho chị đặt 1 ly trà xoài size S, uống tại chỗ ạ.", "subject": "chị", "action": "đặt 1 ly trà xoài size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt bàn tiệc sinh nhật vào chiều nay lúc 3h em nhé", "subject": "anh", "action": "đặt bàn tiệc sinh nhật", "context": "chiều nay lúc 3h"}
+{"text": "Quán mở cửa mấy giờ, đóng cửa mấy giờ? (hỏi giúp bạn mình)", "subject": "khách", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho khách hỏi Highlands Coffee có giao hàng tận nơi không?", "subject": "khách", "action": "Highlands Coffee có giao hàng tận nơi không", "context": ""}
+{"text": "Cho anh hỏi Có được mang thú cưng vào quán không?", "subject": "anh", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Cho em đặt 2 ly cà phê sữa đá size S, ít đá.", "subject": "em", "action": "đặt 2 ly cà phê sữa đá size S", "context": "ít đá"}
+{"text": "Cho anh đặt 1 ly combo sáng: cà phê sữa đá + bánh mì que nhé.", "subject": "anh", "action": "đặt 1 ly combo sáng: cà phê sữa đá + bánh mì que", "context": ""}
+{"text": "Cho anh đặt 3 ly latte nóng size S nhé.", "subject": "anh", "action": "đặt 3 ly latte nóng size S", "context": ""}
+{"text": "Cho anh đặt bàn trước vào tối nay giúp em với", "subject": "anh", "action": "đặt bàn trước", "context": "tối nay"}
+{"text": "Anh/chị ơi, có món nào ngọt mà không quá béo không", "subject": "chị", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Cho em đặt 1 ly freeze việt quất size S, ít đá giúp em với.", "subject": "em", "action": "đặt 1 ly freeze việt quất size S", "context": "ít đá"}
+{"text": "Cho tôi hỏi Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "tôi", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho em đặt 1 ly bánh croissant bơ, không đường giúp em với.", "subject": "em", "action": "đặt 1 ly bánh croissant bơ", "context": "không đường"}
+{"text": "Quán nhận thanh toán bằng những hình thức nào?", "subject": "tôi", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Làm ơn cho hỏi có món nào ít đường không", "subject": "khách", "action": "có món nào ít đường không", "context": ""}
+{"text": "Cho em đặt 2 ly caramel macchiato size S, uống tại chỗ giúp em với.", "subject": "em", "action": "đặt 2 ly caramel macchiato size S", "context": "uống tại chỗ"}
+{"text": "Cho chị đặt 1 ly phin sữa đá dừa size S, ít đá nhé.", "subject": "chị", "action": "đặt 1 ly phin sữa đá dừa size S", "context": "ít đá"}
+{"text": "Cho chị đặt 1 ly trà xanh mật ong size S, uống tại chỗ ạ.", "subject": "chị", "action": "đặt 1 ly trà xanh mật ong size S", "context": "uống tại chỗ"}
+{"text": "Gợi ý món nào đang hot không (hỏi giúp bạn mình)", "subject": "mình", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "anh", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho chị đặt 3 ly cookie socola chip, không đường giúp em với.", "subject": "chị", "action": "đặt 3 ly cookie socola chip", "context": "không đường"}
+{"text": "Không biết Quán mở cửa mấy giờ, đóng cửa mấy giờ? vậy ạ?", "subject": "khách", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho chị đặt 3 ly freeze chanh dây size S ạ.", "subject": "chị", "action": "đặt 3 ly freeze chanh dây size S", "context": ""}
+{"text": "Cho em đặt 2 ly vanilla latte size S, uống tại chỗ giúp em với.", "subject": "em", "action": "đặt 2 ly vanilla latte size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 1 ly cold brew size S, ít đá ạ.", "subject": "anh", "action": "đặt 1 ly cold brew size S", "context": "ít đá"}
+{"text": "Cho chị đặt 3 ly phin sữa đá dừa size S, ít đá ạ.", "subject": "chị", "action": "đặt 3 ly phin sữa đá dừa size S", "context": "ít đá"}
+{"text": "Cho anh đặt 2 ly combo sáng: cà phê sữa đá + bánh mì que giúp em với.", "subject": "anh", "action": "đặt 2 ly combo sáng: cà phê sữa đá + bánh mì que", "context": ""}
+{"text": "Làm ơn cho hỏi Có được mang thú cưng vào quán không?", "subject": "tôi", "action": "Có được mang thú cưng vào quán không", "context": ""}
+{"text": "Quán có chỗ gửi xe không, có mất phí không? nhé.", "subject": "anh", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Làm sao để đăng ký thành viên tích điểm?", "subject": "tôi", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Excuse me, Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "em", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho anh đặt 2 ly trà oolong tứ quý size S, mang đi giúp em với.", "subject": "anh", "action": "đặt 2 ly trà oolong tứ quý size S", "context": "mang đi"}
+{"text": "Cho em đặt bàn tiệc sinh nhật vào cuối tuần này giúp em với", "subject": "em", "action": "đặt bàn tiệc sinh nhật", "context": "cuối tuần này"}
+{"text": "Cho em đặt 1 ly bánh su kem trà xanh, uống tại chỗ giúp em với.", "subject": "em", "action": "đặt 1 ly bánh su kem trà xanh", "context": "uống tại chỗ"}
+{"text": "Excuse me, Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến?", "subject": "tôi", "action": "Món nào có chứa các loại hạt hoặc gây dị ứng phổ biến", "context": ""}
+{"text": "Cho em hỏi Quán mở cửa mấy giờ, đóng cửa mấy giờ?", "subject": "em", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Cho em hỏi Hiện tại quán có chương trình khuyến mãi gì không?", "subject": "em", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho em đặt 1 ly cà phê dừa nhé.", "subject": "em", "action": "đặt 1 ly cà phê dừa", "context": ""}
+{"text": "Cho anh đặt 2 ly freeze trà xanh size S giúp em với.", "subject": "anh", "action": "đặt 2 ly freeze trà xanh size S", "context": ""}
+{"text": "Cho em đặt 2 ly phin sữa đá dừa size S, không đường nhé.", "subject": "em", "action": "đặt 2 ly phin sữa đá dừa size S", "context": "không đường"}
+{"text": "Cho anh đặt 1 ly doppio espresso size S ạ.", "subject": "anh", "action": "đặt 1 ly doppio espresso size S", "context": ""}
+{"text": "Cho chị đặt 1 ly bánh mì chả cá nhé.", "subject": "chị", "action": "đặt 1 ly bánh mì chả cá", "context": ""}
+{"text": "Cho chị đặt 1 ly trà ổi hồng, uống tại chỗ nhé.", "subject": "chị", "action": "đặt 1 ly trà ổi hồng", "context": "uống tại chỗ"}
+{"text": "Anh/chị ơi, Quán nhận thanh toán bằng những hình thức nào?", "subject": "khách", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Xin hỏi Quán có chỗ gửi xe không, có mất phí không?", "subject": "khách", "action": "Quán có chỗ gửi xe không, có mất phí không", "context": ""}
+{"text": "Cho anh đặt 3 ly bánh mì chả cá nhé.", "subject": "anh", "action": "đặt 3 ly bánh mì chả cá", "context": ""}
+{"text": "Cho chị đặt 2 ly cà phê sữa đá size S, uống tại chỗ ạ.", "subject": "chị", "action": "đặt 2 ly cà phê sữa đá size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 1 ly trà vải size S giúp em với.", "subject": "anh", "action": "đặt 1 ly trà vải size S", "context": ""}
+{"text": "Cho chị đặt 3 ly bánh su kem trà xanh nhé.", "subject": "chị", "action": "đặt 3 ly bánh su kem trà xanh", "context": ""}
+{"text": "Cho em đặt 3 ly cà phê muối size S, ít đá ạ.", "subject": "em", "action": "đặt 3 ly cà phê muối size S", "context": "ít đá"}
+{"text": "Xin hỏi có combo nào tiết kiệm không", "subject": "khách", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Cho em đặt bàn trước vào chiều nay lúc 3h em nhé", "subject": "em", "action": "đặt bàn trước", "context": "chiều nay lúc 3h"}
+{"text": "Nên chọn size nào cho vừa uống cảm ơn shop.", "subject": "khách", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Cho chị đặt 2 ly cà phê muối size S ạ.", "subject": "chị", "action": "đặt 2 ly cà phê muối size S", "context": ""}
+{"text": "Cho em đặt 2 ly trà xanh mật ong size S giúp em với.", "subject": "em", "action": "đặt 2 ly trà xanh mật ong size S", "context": ""}
+{"text": "Cho anh đặt 1 ly bánh su kem ạ.", "subject": "anh", "action": "đặt 1 ly bánh su kem", "context": ""}
+{"text": "Xin hỏi Hiện tại quán có chương trình khuyến mãi gì không?", "subject": "khách", "action": "Hiện tại quán có chương trình khuyến mãi gì không", "context": ""}
+{"text": "Cho em đặt 1 ly trà sen vàng size S giúp em với.", "subject": "em", "action": "đặt 1 ly trà sen vàng size S", "context": ""}
+{"text": "Xin hỏi có món nào ngọt mà không quá béo không", "subject": "khách", "action": "có món nào ngọt mà không quá béo không", "context": ""}
+{"text": "Cho em hỏi món nào bán chạy nhất quán", "subject": "em", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho anh đặt 1 ly trà xanh mật ong size S.", "subject": "anh", "action": "đặt 1 ly trà xanh mật ong size S", "context": ""}
+{"text": "Cho chị đặt 2 ly latte đá size S.", "subject": "chị", "action": "đặt 2 ly latte đá size S", "context": ""}
+{"text": "Cho em đặt 2 ly americano nóng size S, uống tại chỗ.", "subject": "em", "action": "đặt 2 ly americano nóng size S", "context": "uống tại chỗ"}
+{"text": "Cho anh đặt 3 ly freeze dâu mùa hè, uống tại chỗ.", "subject": "anh", "action": "đặt 3 ly freeze dâu mùa hè", "context": "uống tại chỗ"}
+{"text": "Cho em đặt 3 ly mocha đá size S, không đường nhé.", "subject": "em", "action": "đặt 3 ly mocha đá size S", "context": "không đường"}
+{"text": "Có combo nào tiết kiệm không (hỏi giúp bạn mình)", "subject": "khách", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Xin hỏi Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào?", "subject": "khách", "action": "Có thể đặt bàn trước không, đặt bàn tiệc sinh nhật thế nào", "context": ""}
+{"text": "Cho chị đặt 1 ly cappuccino size S.", "subject": "chị", "action": "đặt 1 ly cappuccino size S", "context": ""}
+{"text": "Cho chị đặt bàn trước vào tối nay em nhé", "subject": "chị", "action": "đặt bàn trước", "context": "tối nay"}
+{"text": "Cho anh đặt 1 ly freeze dâu size S ạ.", "subject": "anh", "action": "đặt 1 ly freeze dâu size S", "context": ""}
+{"text": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai? ạ.", "subject": "khách", "action": "Muốn mở nhượng quyền Highlands Coffee thì liên hệ ai", "context": ""}
+{"text": "Cho chị đặt 2 ly cookie socola chip, ít đá giúp em với.", "subject": "chị", "action": "đặt 2 ly cookie socola chip", "context": "ít đá"}
+{"text": "Cho anh đặt 2 ly trà vải size S, uống tại chỗ nhé.", "subject": "anh", "action": "đặt 2 ly trà vải size S", "context": "uống tại chỗ"}
+{"text": "Mình muốn biết Quán nhận thanh toán bằng những hình thức nào?", "subject": "khách", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Cho chị đặt 3 ly trà sen vàng size S, ít đá ạ.", "subject": "chị", "action": "đặt 3 ly trà sen vàng size S", "context": "ít đá"}
+{"text": "Anh/chị ơi, gợi ý món nào đang hot không", "subject": "khách", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Quán nhận thanh toán bằng những hình thức nào? nhé.", "subject": "anh", "action": "Quán nhận thanh toán bằng những hình thức nào", "context": ""}
+{"text": "Xin hỏi món nào bán chạy nhất quán", "subject": "em", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho chị đặt 1 ly cà phê đen đá size S giúp em với.", "subject": "chị", "action": "đặt 1 ly cà phê đen đá size S", "context": ""}
+{"text": "Cho anh đặt 3 ly freeze cà phê size S ạ.", "subject": "anh", "action": "đặt 3 ly freeze cà phê size S", "context": ""}
+{"text": "Anh/chị ơi, món nào bán chạy nhất quán", "subject": "khách", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho em đặt bàn cho nhóm 5 người vào tối nay em nhé", "subject": "em", "action": "đặt bàn cho nhóm 5 người", "context": "tối nay"}
+{"text": "Cho anh đặt bàn trước vào sáng mai 8h30 em nhé", "subject": "anh", "action": "đặt bàn trước", "context": "sáng mai 8h30"}
+{"text": "Tư vấn giúp món gì mát mát cho mùa hè nhé.", "subject": "anh", "action": "tư vấn giúp món gì mát mát cho mùa hè", "context": ""}
+{"text": "Cho em đặt 2 ly trà dâu tằm size S ạ.", "subject": "em", "action": "đặt 2 ly trà dâu tằm size S", "context": ""}
+{"text": "Anh/chị ơi, Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "chị", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Cho chị đặt 1 ly mocha nóng size S ạ.", "subject": "chị", "action": "đặt 1 ly mocha nóng size S", "context": ""}
+{"text": "Cho anh đặt 1 ly vanilla latte size S nhé.", "subject": "anh", "action": "đặt 1 ly vanilla latte size S", "context": ""}
+{"text": "Cho chị đặt 3 ly trà oolong tứ quý size S ạ.", "subject": "chị", "action": "đặt 3 ly trà oolong tứ quý size S", "context": ""}
+{"text": "Mình muốn biết gợi ý món nào đang hot không", "subject": "khách", "action": "gợi ý món nào đang hot không", "context": ""}
+{"text": "Cho anh đặt 1 ly cà phê cốt dừa freeze size S, mang đi ạ.", "subject": "anh", "action": "đặt 1 ly cà phê cốt dừa freeze size S", "context": "mang đi"}
+{"text": "Cho em đặt 3 ly trà oolong tứ quý size S, không đường giúp em với.", "subject": "em", "action": "đặt 3 ly trà oolong tứ quý size S", "context": "không đường"}
+{"text": "Cho anh đặt 2 ly phin sữa đá dừa size S giúp em với.", "subject": "anh", "action": "đặt 2 ly phin sữa đá dừa size S", "context": ""}
+{"text": "Món nào bán chạy nhất quán cảm ơn shop.", "subject": "tôi", "action": "món nào bán chạy nhất quán", "context": ""}
+{"text": "Cho tôi hỏi Làm sao để đăng ký thành viên tích điểm?", "subject": "khách", "action": "Làm sao để đăng ký thành viên tích điểm", "context": ""}
+{"text": "Cho anh đặt 3 ly cà phê sữa đá size S ạ.", "subject": "anh", "action": "đặt 3 ly cà phê sữa đá size S", "context": ""}
+{"text": "Cho em đặt 3 ly mocha đá size S, không đường.", "subject": "em", "action": "đặt 3 ly mocha đá size S", "context": "không đường"}
+{"text": "Cho anh đặt 3 ly combo chiều: trà đào + bánh phô mai, ít đá.", "subject": "anh", "action": "đặt 3 ly combo chiều: trà đào + bánh phô mai", "context": "ít đá"}
+{"text": "Không biết Highlands Coffee chi nhánh gần đây nhất ở đâu? vậy ạ?", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Nên chọn size nào cho vừa uống ạ.", "subject": "tôi", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Cho anh đặt bàn cho nhóm 5 người vào ngày mai lúc 7h giúp em với", "subject": "anh", "action": "đặt bàn cho nhóm 5 người", "context": "ngày mai lúc 7h"}
+{"text": "Cho chị đặt 1 ly cold brew size S giúp em với.", "subject": "chị", "action": "đặt 1 ly cold brew size S", "context": ""}
+{"text": "Cho anh đặt 2 ly bạc xỉu size S ạ.", "subject": "anh", "action": "đặt 2 ly bạc xỉu size S", "context": ""}
+{"text": "Xin hỏi Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Cho anh đặt 1 ly combo sáng: cà phê sữa đá + bánh mì que, ít đá.", "subject": "anh", "action": "đặt 1 ly combo sáng: cà phê sữa đá + bánh mì que", "context": "ít đá"}
+{"text": "Món nào phù hợp cho người mới uống cà phê", "subject": "khách", "action": "món nào phù hợp cho người mới uống cà phê", "context": ""}
+{"text": "Quán mở cửa mấy giờ, đóng cửa mấy giờ? ạ.", "subject": "khách", "action": "Quán mở cửa mấy giờ, đóng cửa mấy giờ", "context": ""}
+{"text": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không? cảm ơn shop.", "subject": "khách", "action": "Có thể thuê không gian quán để tổ chức sự kiện nhỏ không", "context": ""}
+{"text": "Cho anh đặt 1 ly hồng trà macchiato size S nhé.", "subject": "anh", "action": "đặt 1 ly hồng trà macchiato size S", "context": ""}
+{"text": "Cho em đặt 3 ly freeze matcha size S, không đường nhé.", "subject": "em", "action": "đặt 3 ly freeze matcha size S", "context": "không đường"}
+{"text": "Cho em hỏi có combo nào tiết kiệm không", "subject": "em", "action": "có combo nào tiết kiệm không", "context": ""}
+{"text": "Cho anh đặt 1 ly cà phê cốt dừa freeze size S ạ.", "subject": "anh", "action": "đặt 1 ly cà phê cốt dừa freeze size S", "context": ""}
+{"text": "Cho chị đặt 1 ly freeze cà phê size S ạ.", "subject": "chị", "action": "đặt 1 ly freeze cà phê size S", "context": ""}
+{"text": "Cho anh đặt 3 ly latte nóng size S, không đường.", "subject": "anh", "action": "đặt 3 ly latte nóng size S", "context": "không đường"}
+{"text": "Cho em đặt 2 ly latte nóng size S nhé.", "subject": "em", "action": "đặt 2 ly latte nóng size S", "context": ""}
+{"text": "Mình muốn biết Highlands Coffee chi nhánh gần đây nhất ở đâu?", "subject": "mình", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Cho anh đặt bàn cho nhóm 5 người vào chiều nay lúc 3h nhé", "subject": "anh", "action": "đặt bàn cho nhóm 5 người", "context": "chiều nay lúc 3h"}
+{"text": "Excuse me, Muốn phản ánh chất lượng phục vụ thì làm sao?", "subject": "khách", "action": "Muốn phản ánh chất lượng phục vụ thì làm sao", "context": ""}
+{"text": "Nên chọn size nào cho vừa uống", "subject": "khách", "action": "nên chọn size nào cho vừa uống", "context": ""}
+{"text": "Highlands Coffee chi nhánh gần đây nhất ở đâu? nhé.", "subject": "khách", "action": "Highlands Coffee chi nhánh gần đây nhất ở đâu", "context": ""}
+{"text": "Không biết Quán có phòng máy lạnh, có wifi mạnh để làm việc không? vậy ạ?", "subject": "tôi", "action": "Quán có phòng máy lạnh, có wifi mạnh để làm việc không", "context": ""}
+{"text": "Cho em đặt 1 ly americano đá size S, uống tại chỗ.", "subject": "em", "action": "đặt 1 ly americano đá size S", "context": "uống tại chỗ"}

@@ -1,0 +1,242 @@
+{"index": 31, "text": "What's the deal with this place today?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 61, "text": "Dạ, nhờ cô tư vấn món nào bán chạy hơn trong ngày này.", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 124, "text": "Hai giờ chiều là giờ mở cửa của Highlands hay sao?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 127, "text": "Chào bạn, có cần đặt chỗ trước khi vào quán không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 128, "text": "Dạo gần đây, quán có đang có khuyến mãi gì không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 133, "text": "Dạo này có đang có khuyến mãi nào chưa?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 172, "text": "We got a happy hour every Fri night?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 292, "text": "tụi này ăn cà phê đc ko", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 293, "text": "để mấy bạn tư vấn đi", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 294, "text": "chắc mày có kinh nghiệm nhiều quá", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 298, "text": "sao lại bán hết rùi nhỉ", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 299, "text": "tụi mình ăn cà phê gì đây?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 300, "text": "để mày tư vấn đi", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 304, "text": "còn gì nữa không", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 327, "text": "$$ dishes", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 332, "text": "I wanna go big with size", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 333, "text": "Taste and value", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 336, "text": "Sugary treat", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 368, "text": "Aren't we open now?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 369, "text": "Can I park my bike here?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 370, "text": "Parking fees? Who owns this place?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 374, "text": "U h8ve a mic on ur pc n0?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 415, "text": "Hey there! How's your day been?", "original_label": "ignore", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 439, "text": "tôi đang thắc mắc có loại cà phê nào phù hợp với ngày mưa hôm nay không", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 443, "text": "tụi mình order gì nhỉ", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 471, "text": "Wrst stpc, dnt wtn fr ice?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 476, "text": "Fnd tht mgmt prf bldtm, 800 cml?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 492, "text": "Is there anything else to be done at the counter? My bill is ready.", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 564, "text": "I heard you guys are hiring new staff recently.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 669, "text": "what’s ur secret weapon", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 675, "text": "I changed my mind. Can I remove that? Also, could you add one more slice of cheese to my plate?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 681, "text": "Just need to confirm; is my order ready or should I wait for the next batch of orders?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 733, "text": "Tiếng ồn quá, bác sĩ", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 737, "text": "Không thấy ai ở đây đâu", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 738, "text": "Xin chào mọi người, cuối tuần rồi", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 745, "text": "How long does it usually take for food orders to be ready?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 746, "text": "Are you open on Sundays or just weekdays?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 756, "text": "Are u f****g serious? when do ur ppl open?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 765, "text": "Hey there, can I get wifi, please?", "original_label": "faq", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 884, "text": "How important are customer feedback in making decisions regarding menu updates here at Highlands Coffee?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 885, "text": "Do you think the coffee quality has improved recently, or is it still consistent with previous years?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 891, "text": "It's so cold outside, what should we drink?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 895, "text": "Can I order an extra cup of coffee please?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 897, "text": "How about adding more ice to my drink?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 898, "text": "Is there any way to reduce the sugar in this?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 945, "text": "are u guys ready to order", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 994, "text": "What’s new? I stopped by to grab a quick espresso.", "original_label": "ignore", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1008, "text": "hi there, do u serve drinks on weekends?", "original_label": "ignore", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 1015, "text": "'Xem lại giá', anh mà tính lại đi.", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1020, "text": "[Điều khiển viên], à anh tính lại đi ạ", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1023, "text": "[Người bán hàng], anh chắc chắn chứ?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1028, "text": "what's new on dis here menu?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 1084, "text": "Ahh, what's popular today?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 1097, "text": "Thx for the great recs!", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "en"}
+{"index": 1145, "text": "chỗ này cũ quá nhỉ", "original_label": "ignore", "judged_label": "faq", "confidence": "low", "is_hard": true, "language": "vi"}
+{"index": 1202, "text": "Order another order of bacon cheeseburgers for me, please!", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1246, "text": "Hey, do you guys offer discounts on the first Saturday of every month?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1247, "text": "Do you need a reservation for big parties, or just walk-ins ok?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1248, "text": "The internet connection in here isn't very stable. Is there any plan to improve that?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1249, "text": "Is parking free if I park my car in your front lot? I don’t have a clue where this place is.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1295, "text": "Can’t believe how full I am already – need something for those last few crumbs.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1316, "text": "Hi there! I’m looking for a quick fix of coffee in the rain. What’s your top pick?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1347, "text": "Hey, do the place open till late?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1351, "text": "Just heard about a new coffee promotion; can you share details?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1352, "text": "I usually check in at 2 PM, do they open that early?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1353, "text": "How far from downtown? I have to get there quickly.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1354, "text": "What time should we expect the shop staff to be available?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1355, "text": "Is it always crowded here on weekdays or weekends?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1356, "text": "Do we need a reservation for parties over ten people?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1383, "text": "You gonna be okay in there?", "original_label": "ignore", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1444, "text": "I'm trying to be frugal, any good choices within budget but also tasty?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1453, "text": "[Điểm xanh] Anh cũng đang thắc mắc việc này", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1505, "text": "Anh/Em muốn gọi món gì đây?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1508, "text": "[Minh] Có thể tính tiền sớm không chị?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1512, "text": "Có thể tính tiền sớm không ạ?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1581, "text": "[Thưa cô] thêm một thìa đường vào ly cà phê đen này, được không?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1587, "text": "[Kính nhờ] thêm một thìa đường vào ly cà phê đen này, được không?\"", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1592, "text": "One more slice of chocolate cake, please.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1596, "text": "Can we remove one of the toppings on the dessert?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1748, "text": "Opening hours seem to be flexible sometimes; it changes depending on the day of week.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1801, "text": "Anyone tried the new cafe this weekend? It's getting rave reviews!", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1806, "text": "What do you think about this place? Is it worth trying out for a change?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1810, "text": "Could I ask what's been trending lately in terms of coffee trends?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1816, "text": "Chào bạn, mình mở từ 8h đến 21h mỗi ngày", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1822, "text": "À, mình cũng có khuyến mãi cho khách hàng thân thiết mỗi tháng đó.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1824, "text": "Dạ, còn cần thêm thông tin gì khác nữa ạ?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1827, "text": "'Cũng khá hay rồi', mình đã nắm vững tất cả thông tin chung từ địa chỉ đến việc gửi xe, còn gì nữa không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1828, "text": "Dạ, biết rõ nhất là giờ mở cửa và đóng cửa của Highlands Coffee.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1829, "text": "Thế thôi, cảm ơn bạn nhiều nhé!", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1833, "text": "Is it possible to park my car near the coffee place? I don’t have a lot of space.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1834, "text": "What’s your policy regarding late arrivals in the morning? Any exceptions?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1835, "text": "Hey, do you guys offer any discounts or promotions this month? Let's see.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1942, "text": "Đây có là quán có wifi tốt nhất Đà Nẵng không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1946, "text": "Giờ đóng cửa hôm nay tại sao lại sớm vậy?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 1950, "text": "Opening times are usually 7AM-8PM, but check their website for updates.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 1954, "text": "Promotions are sometimes on cards or flyers in the cafe, but keep your eyes peeled!", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2021, "text": "I’m thinking of bringing in guests tomorrow night and need suggestions for coffee pairings.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2025, "text": "What’s your secret to making the best cold brew during these hot summer months?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2027, "text": "I want to learn more about how different coffees affect taste. Could you provide some insights into that?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2028, "text": "For my kids' birthdays, I’m considering special drinks but not sure what's worth trying.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2029, "text": "Is there any specific coffee shop chain near here that’s known for great recommendations?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2035, "text": "Hãy tìm hiểu khuyến mãi mới nhất trên fanpage của Highlands Coffee nha.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2042, "text": "Lên lịch đi cà phê trước khi đến để không bị chờ nha!", "original_label": "faq", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2050, "text": "How’s the parking situation like near Highlands Coffee? Should be great, right?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2054, "text": "What can you say about the internet quality at Highlands Coffee? It seems like a bad connection.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2055, "text": "I was told to go there at 10 AM, but I’m late by half an hour. What should I do?", "original_label": "faq", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2102, "text": "Có phải đã order xong không rồi? Chúng tôi còn chưa tính tiền nha.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2105, "text": "Nếu muốn thêm món nữa thì cũng chỉ order thêm một ly nước cam mà thôi nhé.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2106, "text": "Có cần đặt tiền trước không? Tôi đã order xong rồi.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2108, "text": "Sure thing! Can I get the menu please?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2111, "text": "Oops, just remembered I left my card at home. Can I place the order now?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2112, "text": "I'm all set, got the drink and coffee. Thanks for your service!", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2116, "text": "Could you add a chocolate chip muffin to this, too?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2143, "text": "Could you recommend a place around here with better tasting coffee than Highlands?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2144, "text": "What’s your favorite coffee drink at Highlands and why should we give it a try?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2145, "text": "Have you tried all their new blends yet or are there some classic favorites I should go back to?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2148, "text": "What’s your personal favorite coffee at Highlands and what makes it so great?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2150, "text": "Do you think high-quality ingredients are worth more for coffee tastes compared to mass-produced ones?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2151, "text": "I want to make my own coffee at home, but I’m not sure where to start. Any tips from an expert?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2152, "text": "What’s the difference between a good cup and a great cup of coffee here? How can I achieve that taste?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2205, "text": "Đường pha vào ly to hơn chút được không?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2209, "text": "Sure thing! What'd ya fancy?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2213, "text": "I’m a bit parched. Could you hurry with the bill, please?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2223, "text": "Just a couple more small adjustments. Please.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2231, "text": "Tớ vừa lên kế hoạch cho bữa tiệc cuối tuần, xin lỗi nếu phiền bạn quá.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2243, "text": "Tớ đang ở phố Cầu Đất, cách cà phê Highlands xa mấy cây số vậy?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2247, "text": "Chị thử qua ở quán cà phê Highlands này chưa, anh?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2251, "text": "Umm, do they have opening hours listed somewhere? I forgot what time it's open.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2254, "text": "'Cause we need to park the car near the shop.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2305, "text": "I think I got it wrong; could you take my order again?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2310, "text": "Is this right? Can you confirm it's correct?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2415, "text": "Hey, can I just grab a latte and a muffin on my way out?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2421, "text": "I was thinking of getting a cappuccino but now I'm not sure if it's worth ordering one.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2448, "text": "Sao mà Highlands Coffee mở sớm thế?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2449, "text": "Chị, định ra Highlands vào chiều này được không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2450, "text": "Cô ấy ơi, địa chỉ chính xác của Highlands ở đâu nhỉ?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2451, "text": "Tụi mình muốn gửi xe máy tại đây có hợp lí k?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2452, "text": "Anh ơi, mình đi đến Highlands lúc bao giờ thì wifi đã sẵn sàng?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2453, "text": "Cô ơi, định ra Highlands vào tối nay được không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2488, "text": "Chúng mình order thêm mấy cái bánh sinh nhật đi", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2495, "text": "Can we remove those cookies from the bill?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2496, "text": "I think there's a typo in my order, am I supposed to get a regular or extra shot espresso?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2502, "text": "I need the order placed quickly as I’m running late today.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2506, "text": "Bây giờ thời tiết chuyển sang mưa, thưa cô bán hàng, nên mua loại cà phê gì ạ?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2511, "text": "Thời tiết sắp mưa rồi, có món nào đặc biệt bán chạy lắm không?", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2515, "text": "Có gợi ý món nào phù hợp với thời tiết sắp mưa không? Thích cà phê nguyên chất hơn là pha sẵn.", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2522, "text": "Just checking in - what's your favorite coffee at Highlands Coffee and why?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2526, "text": "Hi! Could we chat about the weather impacting our choice of drink?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2530, "text": "Hello! Can we discuss how the weather influences our drink choices here?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2549, "text": "Sure, do you mind checking if we have free wifi?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2550, "text": "Hey! Can I ask about your shop’s hours today?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2551, "text": "I’d like to know more about the opening times.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2552, "text": "Could you please tell me how we can park our car near here?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2556, "text": "Hey! Just need some details regarding address.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2585, "text": "Could you also throw in a banana chip muffin with that chocolate cake?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2594, "text": "'Sơn Thủy' thì bán chạy lắm, anh tư vấn hộ mình đi!", "original_label": "consultant", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2608, "text": "Could it be possible to have more variety in the menu considering there seems to be less than before?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2612, "text": "Hey, I have been reading reviews of this place. Could you give us your opinion on what’s trending right now in terms of coffee choices and prices?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2621, "text": "Phù hợp với nhóm đông người không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2626, "text": "Dịch vụ thanh toán nhanh này như thế nào?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2629, "text": "Hey there, just checking on the wifi strength.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2630, "text": "Wifi seems solid. Got any info on their opening hours?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2631, "text": "The coffee place is open 8am till 6pm daily!", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2635, "text": "Just curious - what promotions are happening now?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2687, "text": "Mind if I switch my regular iced coffee to hot one? Really appreciate that.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2704, "text": "[Ngẫu nhiên] Tôi muốn biết món nào bán chạy nhất trong quán.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2713, "text": "'Budget-conscious' here means spending wisely, right?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2741, "text": "Can you put less sugar in this? It's too sweet for me.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2745, "text": "Could you make the drink stronger, please? My cup is getting cold.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2749, "text": "Hey there, can you adjust my drink to be stronger? My coffee is lukewarm!", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2864, "text": "Anh, mình đặt chỗ trước hay không để chắc chắn suất cà phê?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2869, "text": "Dạ, tôi đã để ý đến địa chỉ mới nhất của Highlands Coffee rồi, cảm ơn cô.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2870, "text": "Got any parking spaces for guests?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2874, "text": "Can you help me find a restroom near here?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2912, "text": "'Á', thêm đường vào đó được k?", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2929, "text": "Can you speed up the delivery because I'm super thirsty right now.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2934, "text": "Sorry to bother you again but I'm not feeling well, should I be charged extra or is this free?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2935, "text": "Can you please give me a discount on this order since it's my birthday today?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 2974, "text": "Tại sao còn giữ giày trong quán vậy?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2975, "text": "{Kính gửi chủ quán}, tôi thích hình thức gửi giày này nhưng liệu có mất phí gì không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 2993, "text": "Do they really give out free cookies during the coffee hour every Monday?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3029, "text": "Could you put two slices of cheese on my order? Thanks!", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3060, "text": "What's your favorite drink here? It’s such a great selection, isn't it?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3061, "text": "I love trying new things. Do you have any recommendations today that might be worth trying out?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3062, "text": "Can you tell me what the most popular coffee is right now? I want to make sure my choice won’t disappoint.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3065, "text": "I'm interested in trying something different. What new items have arrived lately?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3066, "text": "Is there any coffee here that you think could be considered the most versatile based on current trends?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3067, "text": "What are some lesser-known drinks that might still be worth a try despite their less common status?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3068, "text": "Could you provide more detailed information about the taste differences between the various coffee blends available?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3069, "text": "I've tried everything, so I'm looking for something special. Can you recommend an unusual flavor option?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3070, "text": "The forecast is calling for rain today - do you think it’s better to avoid too much milk in my drinks or not?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3082, "text": "Tôi muốn hỏi về địa điểm đặt cốc cà phê ở Highlands Coffee, biết bao?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3086, "text": "Quán Highlands Coffee có phải mở cả ngày không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3088, "text": "Tôi muốn hỏi về việc đặt cốc cà phê ở Highlands Coffee, biết bao?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3092, "text": "I'll be coming late tonight. Do they still open?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3093, "text": "Where's parking like normally?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3094, "text": "Do they offer discounts for students too?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3131, "text": "I think I want to try their signature cappuccino. How’s that sound?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3170, "text": "Can you help me with directions to get there?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3174, "text": "They seem so busy at lunchtime, does this mean we should plan ahead or just come as soon as it opens?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3255, "text": "My group will be coming soon, can you please let us in early?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3256, "text": "When are the promotions happening again?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3310, "text": "Hey there, just checking if you guys still make that famous chocolate croissant sandwich.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3314, "text": "Could you bring me a triple-shot mocha instead of the usual double one?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3368, "text": "When does Highlands open in the morning?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3370, "text": "Is there any parking lot provided near your place?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3374, "text": "'Brew' up some info on the opening hours for today, please.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3375, "text": "Hey there, do we offer free parking near Highlands Coffee?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3421, "text": "Would putting in the same order again make things quicker?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3436, "text": "Chào cả nhà, mình đang thắc mắc nên lựa chọn menu nào giữa nhiều loại cà phê sữa và matcha ngon.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3448, "text": "Do you think the cafe would have a special menu for cold days?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3452, "text": "Hey, do you have any low-temperature recommendations that won't make us feel too cold?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3502, "text": "'Cause it's my birthday today!", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3506, "text": "'Til then, can we settle the bill, please?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3507, "text": "Mind if I just go ahead and pay now?", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3510, "text": "I really like how you make your drinks.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3528, "text": "Can you recommend a café that's good for coffee lovers like me? I'm looking for something cozy with a great taste.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3529, "text": "Hey, do you have any suggestions for where to get decent coffee without breaking the bank? It's been raining non-stop and my mug is dry!", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3581, "text": "Just checking in. Any new specials on the menu?", "original_label": "ignore", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3591, "text": "No big, just checking in. What’s new?", "original_label": "ignore", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3619, "text": "I want to add a few more drops of vanilla essence.", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3647, "text": "'Chiến lược phát triển' của Highlands Coffee như thế nào?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3656, "text": "I checked your website and found no mention of your opening hours today, could you confirm please?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3709, "text": "Chào bạn! Mình đang cân nhắc việc bổ sung vào thực đơn cà phê cho khách hàng thân thiết, cần bạn tư vấn cho họ lựa chọn phù hợp.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3714, "text": "Anh ơi, cho em hỏi chỗ ở ngõ này có được vào không?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3729, "text": "Anyone know how long the café is open today? It’s 5 pm already!", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3730, "text": "Just want to double check the opening hours this weekend please?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3734, "text": "Is it okay if I park my bike in front of the shop? I always leave it there.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3735, "text": "I'm not sure where to find the menu. Is it close to the entrance or in a different place?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3736, "text": "How’s the WiFi working right now, they say it's pretty good?", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3763, "text": "Khó quá, tôi định order thêm vài thứ nhưng tiền không đủ!", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3770, "text": "Tôi đã định order trước rồi. Tôi muốn chỉnh lại cốc nhỏ sang cốc lớn.", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3785, "text": "Wifi works well, but sometimes the connection is slow.", "original_label": "faq", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "en"}
+{"index": 3842, "text": "Ngồi đây cả buổi rồi, thợ săn gà ri cho tôi xin giá ạ!", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3851, "text": "Chắc ăn cơm trưa rồi nhưng bữa tối còn thiếu gì ngoài món ngon?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3873, "text": "Hôm qua mua cà phê, hôm nay có món gì mới chưa?", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3893, "text": "Anh Highlands ơi, bữa nay trời nắng nhưng em vẫn không biết phải chọn gì", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3952, "text": "Chắc chắn anh sẽ thích ly sữa thơm này", "original_label": "order", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3973, "text": "Thời tiết đẹp vậy mà còn thắc mắc nên chọn món gì nữa chứ.", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3974, "text": "Bạn tư vấn giúp tao món nào bán chạy và ngon nhỉ?", "original_label": "consultant", "judged_label": "ignore", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3991, "text": "Chỗ này có đồ ăn nhẹ gì không? Thêm vài chiếc salat đi, ạ!", "original_label": "order", "judged_label": "faq", "confidence": "low", "is_hard": false, "language": "vi"}
+{"index": 3996, "text": "Điều kiện an toàn nhé! Tôi chỉ cần gọi thêm một ly café đen thôi à!", "original_label": "order", "judged_label": "consultant", "confidence": "low", "is_hard": false, "language": "vi"}
